@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>32249</UniqueXMLID>
+			<AirportName>Gustaf III Airport / Saint Barthélemy Rémy de Haenen Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Gustavia / Saint-Jean</CityName>
+			<CountryName>Saint Barthélemy</CountryName>
+			<RegionName>Saint Barthélemy</RegionName>
+			<ICAOCode>TFFJ</ICAOCode>
+			<IATACode>SBH</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>650</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Saint Barthélemy</RegionName>
+</RegionData>

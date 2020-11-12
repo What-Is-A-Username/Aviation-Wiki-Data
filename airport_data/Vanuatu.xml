@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>35158</UniqueXMLID>
+			<AirportName>Gaua Island Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Gaua Island</CityName>
+			<CountryName>Vanuatu</CountryName>
+			<RegionName>Vanuatu</RegionName>
+			<ICAOCode>NVSQ</ICAOCode>
+			<IATACode>ZGU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>854</Length>
+					<SurfaceType>Grass</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5010</UniqueXMLID>
+			<AirportName>Santo Pekoa International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Luganville</CityName>
+			<CountryName>Vanuatu</CountryName>
+			<RegionName>Vanuatu</RegionName>
+			<ICAOCode>NVSS</ICAOCode>
+			<IATACode>SON</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1988</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5011</UniqueXMLID>
+			<AirportName>Bauerfield International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Port Vila</CityName>
+			<CountryName>Vanuatu</CountryName>
+			<RegionName>Vanuatu</RegionName>
+			<ICAOCode>NVVV</ICAOCode>
+			<IATACode>VLI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2600</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1009</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5012</UniqueXMLID>
+			<AirportName>Tanna Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Vanuatu</CountryName>
+			<RegionName>Vanuatu</RegionName>
+			<ICAOCode>NVVW</ICAOCode>
+			<IATACode>TAH</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1230</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Vanuatu</RegionName>
+</RegionData>

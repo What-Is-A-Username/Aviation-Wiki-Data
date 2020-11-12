@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4644</UniqueXMLID>
+			<AirportName>La Aurora Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Guatemala City</CityName>
+			<CountryName>Guatemala</CountryName>
+			<RegionName>Guatemala</RegionName>
+			<ICAOCode>MGGT</ICAOCode>
+			<IATACode>GUA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2987</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4645</UniqueXMLID>
+			<AirportName>Puerto Barrios Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Puerto Barrios</CityName>
+			<CountryName>Guatemala</CountryName>
+			<RegionName>Guatemala</RegionName>
+			<ICAOCode>MGPB</ICAOCode>
+			<IATACode>PBR</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2707</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4648</UniqueXMLID>
+			<AirportName>San José Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Puerto San José</CityName>
+			<CountryName>Guatemala</CountryName>
+			<RegionName>Guatemala</RegionName>
+			<ICAOCode>MGSJ</ICAOCode>
+			<IATACode>GSJ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2010</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4649</UniqueXMLID>
+			<AirportName>Mundo Maya International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>San Benito</CityName>
+			<CountryName>Guatemala</CountryName>
+			<RegionName>Guatemala</RegionName>
+			<ICAOCode>MGMM</ICAOCode>
+			<IATACode>FRS</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3000</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Guatemala</RegionName>
+</RegionData>

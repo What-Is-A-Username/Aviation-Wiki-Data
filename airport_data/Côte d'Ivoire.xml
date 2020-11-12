@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>2096</UniqueXMLID>
+			<AirportName>Port Bouet Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Abidjan</CityName>
+			<CountryName>Côte d'Ivoire</CountryName>
+			<RegionName>Côte d'Ivoire</RegionName>
+			<ICAOCode>DIAP</ICAOCode>
+			<IATACode>ABJ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2097</UniqueXMLID>
+			<AirportName>Bouaké Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Côte d'Ivoire</CountryName>
+			<RegionName>Côte d'Ivoire</RegionName>
+			<ICAOCode>DIBK</ICAOCode>
+			<IATACode>BYK</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3300</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Côte d'Ivoire</RegionName>
+</RegionData>

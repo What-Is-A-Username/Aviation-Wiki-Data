@@ -1,0 +1,538 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4979</UniqueXMLID>
+			<AirportName>Faa'a International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Papeete</CityName>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTAA</ICAOCode>
+			<IATACode>PPT</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3463</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4980</UniqueXMLID>
+			<AirportName>Rurutu Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTAR</ICAOCode>
+			<IATACode>RUR</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1450</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4981</UniqueXMLID>
+			<AirportName>Tubuai Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTAT</ICAOCode>
+			<IATACode>TUB</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1500</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4983</UniqueXMLID>
+			<AirportName>Anaa Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTGA</ICAOCode>
+			<IATACode>AAA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1500</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4985</UniqueXMLID>
+			<AirportName>Tikehau Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTGC</ICAOCode>
+			<IATACode>TIH</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1200</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4987</UniqueXMLID>
+			<AirportName>Fakarava Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTGF</ICAOCode>
+			<IATACode>FAV</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1180</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4988</UniqueXMLID>
+			<AirportName>Manihi Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTGI</ICAOCode>
+			<IATACode>XMH</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>930</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4989</UniqueXMLID>
+			<AirportName>Totegegie Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTGJ</ICAOCode>
+			<IATACode>GMR</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4990</UniqueXMLID>
+			<AirportName>Kaukura Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTGK</ICAOCode>
+			<IATACode>KKR</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1080</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4991</UniqueXMLID>
+			<AirportName>Makemo Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTGM</ICAOCode>
+			<IATACode>MKP</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1500</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4993</UniqueXMLID>
+			<AirportName>Takapoto Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTGT</ICAOCode>
+			<IATACode>TKP</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>920</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4994</UniqueXMLID>
+			<AirportName>Arutua Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTGU</ICAOCode>
+			<IATACode>AXR</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1301</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4995</UniqueXMLID>
+			<AirportName>Mataiva Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTGV</ICAOCode>
+			<IATACode>MVT</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1200</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4997</UniqueXMLID>
+			<AirportName>Ahe Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Ahe Atoll</CityName>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTHE</ICAOCode>
+			<IATACode>AHE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1240</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5000</UniqueXMLID>
+			<AirportName>Takaroa Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTKR</ICAOCode>
+			<IATACode>TKX</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1052</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5001</UniqueXMLID>
+			<AirportName>Nuku Hiva Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTMD</ICAOCode>
+			<IATACode>NHV</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1700</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5002</UniqueXMLID>
+			<AirportName>Hiva Oa-Atuona Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Hiva Oa Island</CityName>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTMN</ICAOCode>
+			<IATACode>AUQ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1215</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5003</UniqueXMLID>
+			<AirportName>Bora Bora Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Motu Mute</CityName>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTTB</ICAOCode>
+			<IATACode>BOB</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1500</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>914</Length>
+					<SurfaceType>COR</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5004</UniqueXMLID>
+			<AirportName>Rangiroa Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTTG</ICAOCode>
+			<IATACode>RGI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2100</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5005</UniqueXMLID>
+			<AirportName>Huahine-Fare Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Fare</CityName>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTTH</ICAOCode>
+			<IATACode>HUH</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1500</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5006</UniqueXMLID>
+			<AirportName>Moorea Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTTM</ICAOCode>
+			<IATACode>MOZ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1180</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5007</UniqueXMLID>
+			<AirportName>Hao Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTTO</ICAOCode>
+			<IATACode>HOI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3380</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5008</UniqueXMLID>
+			<AirportName>Maupiti Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTTP</ICAOCode>
+			<IATACode>MAU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>956</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5009</UniqueXMLID>
+			<AirportName>Raiatea Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Uturoa</CityName>
+			<CountryName>French Polynesia</CountryName>
+			<RegionName>French Polynesia</RegionName>
+			<ICAOCode>NTTR</ICAOCode>
+			<IATACode>RFP</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1400</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>French Polynesia</RegionName>
+</RegionData>

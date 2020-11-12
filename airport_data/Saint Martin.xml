@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>6364</UniqueXMLID>
+			<AirportName>L'Espérance Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Grand Case</CityName>
+			<CountryName>Saint Martin</CountryName>
+			<RegionName>Saint Martin</RegionName>
+			<ICAOCode>TFFG</ICAOCode>
+			<IATACode>SFG</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1200</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Saint Martin</RegionName>
+</RegionData>

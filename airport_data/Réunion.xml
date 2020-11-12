@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>2905</UniqueXMLID>
+			<AirportName>Roland Garros Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>St Denis</CityName>
+			<CountryName>Réunion</CountryName>
+			<RegionName>Réunion</RegionName>
+			<ICAOCode>FMEE</ICAOCode>
+			<IATACode>RUN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3200</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>2670</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2906</UniqueXMLID>
+			<AirportName>Pierrefonds Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>St Pierre</CityName>
+			<CountryName>Réunion</CountryName>
+			<RegionName>Réunion</RegionName>
+			<ICAOCode>FMEP</ICAOCode>
+			<IATACode>ZSE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2134</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Réunion</RegionName>
+</RegionData>

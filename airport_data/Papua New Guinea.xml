@@ -1,0 +1,475 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>53</UniqueXMLID>
+			<AirportName>Buka Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Buka Island</CityName>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYBK</ICAOCode>
+			<IATACode>BUA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1562</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>54</UniqueXMLID>
+			<AirportName>Chimbu Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kundiawa</CityName>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYCH</ICAOCode>
+			<IATACode>CMU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1015</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>55</UniqueXMLID>
+			<AirportName>Daru Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Daru</CityName>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYDU</ICAOCode>
+			<IATACode>DAU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1400</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>56</UniqueXMLID>
+			<AirportName>Goroka Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Goronka</CityName>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYGA</ICAOCode>
+			<IATACode>GKA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1214</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1646</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>57</UniqueXMLID>
+			<AirportName>Gurney Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Gurney</CityName>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYGN</ICAOCode>
+			<IATACode>GUR</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1690</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>58</UniqueXMLID>
+			<AirportName>Girua Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Popondetta</CityName>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYGR</ICAOCode>
+			<IATACode>PNP</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1672</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>59</UniqueXMLID>
+			<AirportName>Kimbe Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Hoskins</CityName>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYHK</ICAOCode>
+			<IATACode>HKN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1589</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>60</UniqueXMLID>
+			<AirportName>Kerema Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kerema</CityName>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYKM</ICAOCode>
+			<IATACode>KMA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>928</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>61</UniqueXMLID>
+			<AirportName>Kavieng Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kavieng</CityName>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYKV</ICAOCode>
+			<IATACode>KVG</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1704</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>62</UniqueXMLID>
+			<AirportName>Madang Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Madang</CityName>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYMD</ICAOCode>
+			<IATACode>MAG</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1577</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>63</UniqueXMLID>
+			<AirportName>Mount Hagen Kagamuga Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Mount Hagen</CityName>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYMH</ICAOCode>
+			<IATACode>HGU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1097</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>2190</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>64</UniqueXMLID>
+			<AirportName>Mendi Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Mendi</CityName>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYMN</ICAOCode>
+			<IATACode>MDU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1344</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>65</UniqueXMLID>
+			<AirportName>Momote Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Manus Island</CityName>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYMO</ICAOCode>
+			<IATACode>MAS</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1870</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>66</UniqueXMLID>
+			<AirportName>Nadzab Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Lae</CityName>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYNZ</ICAOCode>
+			<IATACode>LAE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2440</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>67</UniqueXMLID>
+			<AirportName>Port Moresby Jacksons International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Port Moresby</CityName>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYPY</ICAOCode>
+			<IATACode>POM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2750</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>2066</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>68</UniqueXMLID>
+			<AirportName>Tokua Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Tokua</CityName>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYTK</ICAOCode>
+			<IATACode>RAB</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1720</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>69</UniqueXMLID>
+			<AirportName>Vanimo Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Vanimo</CityName>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYVN</ICAOCode>
+			<IATACode>VAI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1760</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>70</UniqueXMLID>
+			<AirportName>Wapenamanda Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYWD</ICAOCode>
+			<IATACode>WBM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1540</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>71</UniqueXMLID>
+			<AirportName>Wewak International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Wewak</CityName>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYWK</ICAOCode>
+			<IATACode>WWK</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1595</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>35180</UniqueXMLID>
+			<AirportName>Balimo Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Balimo</CityName>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYBM</ICAOCode>
+			<IATACode>OPU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways/>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>35179</UniqueXMLID>
+			<AirportName>Baimuru Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Baimuru</CityName>
+			<CountryName>Papua New Guinea</CountryName>
+			<RegionName>Papua New Guinea</RegionName>
+			<ICAOCode>AYBA</ICAOCode>
+			<IATACode>VMU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>900</Length>
+					<SurfaceType>Grassed black clay</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Papua New Guinea</RegionName>
+</RegionData>

@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>43226</UniqueXMLID>
+			<AirportName>Kaieteur International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kaieteur Falls</CityName>
+			<CountryName>Guyana</CountryName>
+			<RegionName>Guyana</RegionName>
+			<ICAOCode>SYKA</ICAOCode>
+			<IATACode>KAI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways/>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>6356</UniqueXMLID>
+			<AirportName>Cheddi Jagan International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Georgetown</CityName>
+			<CountryName>Guyana</CountryName>
+			<RegionName>Guyana</RegionName>
+			<ICAOCode>SYCJ</ICAOCode>
+			<IATACode>GEO</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2270</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1525</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>41513</UniqueXMLID>
+			<AirportName>Eugene F. Correira International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Ogle</CityName>
+			<CountryName>Guyana</CountryName>
+			<RegionName>Guyana</RegionName>
+			<ICAOCode>SYEC</ICAOCode>
+			<IATACode>OGL</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1280</Length>
+					<SurfaceType>concrete</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>6358</UniqueXMLID>
+			<AirportName>Lethem Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Lethem</CityName>
+			<CountryName>Guyana</CountryName>
+			<RegionName>Guyana</RegionName>
+			<ICAOCode>SYLT</ICAOCode>
+			<IATACode>LTM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1824</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Guyana</RegionName>
+</RegionData>

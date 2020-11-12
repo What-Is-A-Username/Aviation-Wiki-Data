@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>2144</UniqueXMLID>
+			<AirportName>Lomé-Tokoin Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Lomé</CityName>
+			<CountryName>Togo</CountryName>
+			<RegionName>Togo</RegionName>
+			<ICAOCode>DXXX</ICAOCode>
+			<IATACode>LFW</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3001</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Togo</RegionName>
+</RegionData>

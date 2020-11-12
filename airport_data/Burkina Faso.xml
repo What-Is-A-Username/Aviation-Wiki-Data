@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>2088</UniqueXMLID>
+			<AirportName>Ouagadougou Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Ouagadougou</CityName>
+			<CountryName>Burkina Faso</CountryName>
+			<RegionName>Burkina Faso</RegionName>
+			<ICAOCode>DFFD</ICAOCode>
+			<IATACode>OUA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3028</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1911</Length>
+					<SurfaceType>LAT</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2089</UniqueXMLID>
+			<AirportName>Bobo Dioulasso Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Bobo Dioulasso</CityName>
+			<CountryName>Burkina Faso</CountryName>
+			<RegionName>Burkina Faso</RegionName>
+			<ICAOCode>DFOO</ICAOCode>
+			<IATACode>BOY</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3300</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Burkina Faso</RegionName>
+</RegionData>

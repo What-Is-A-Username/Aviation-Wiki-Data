@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4399</UniqueXMLID>
+			<AirportName>Karlovy Vary International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Karlovy Vary</CityName>
+			<CountryName>Czech Republic</CountryName>
+			<RegionName>Czech Republic</RegionName>
+			<ICAOCode>LKKV</ICAOCode>
+			<IATACode>KLV</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2150</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>800</Length>
+					<SurfaceType/>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4402</UniqueXMLID>
+			<AirportName>Ostrava Leos Janáček Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Ostrava</CityName>
+			<CountryName>Czech Republic</CountryName>
+			<RegionName>Czech Republic</RegionName>
+			<ICAOCode>LKMT</ICAOCode>
+			<IATACode>OSR</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3500</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4405</UniqueXMLID>
+			<AirportName>Pardubice Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Pardubice</CityName>
+			<CountryName>Czech Republic</CountryName>
+			<RegionName>Czech Republic</RegionName>
+			<ICAOCode>LKPD</ICAOCode>
+			<IATACode>PED</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2500</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4408</UniqueXMLID>
+			<AirportName>Václav Havel Airport Prague</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Prague</CityName>
+			<CountryName>Czech Republic</CountryName>
+			<RegionName>Czech Republic</RegionName>
+			<ICAOCode>LKPR</ICAOCode>
+			<IATACode>PRG</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2120</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3715</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3250</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4409</UniqueXMLID>
+			<AirportName>Brno-Tuřany Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Brno</CityName>
+			<CountryName>Czech Republic</CountryName>
+			<RegionName>Czech Republic</RegionName>
+			<ICAOCode>LKTB</ICAOCode>
+			<IATACode>BRQ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>800</Length>
+					<SurfaceType/>
+				</Runway>
+				<Runway>
+					<Length>2650</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Czech Republic</RegionName>
+</RegionData>

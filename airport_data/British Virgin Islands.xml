@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>6411</UniqueXMLID>
+			<AirportName>Terrance B. Lettsome International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Road Town</CityName>
+			<CountryName>British Virgin Islands</CountryName>
+			<RegionName>British Virgin Islands</RegionName>
+			<ICAOCode>TUPJ</ICAOCode>
+			<IATACode>EIS</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1415</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>British Virgin Islands</RegionName>
+</RegionData>

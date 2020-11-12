@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>3146</UniqueXMLID>
+			<AirportName>Conakry International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Conakry</CityName>
+			<CountryName>Guinea</CountryName>
+			<RegionName>Guinea</RegionName>
+			<ICAOCode>GUCY</ICAOCode>
+			<IATACode>CKY</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3300</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Guinea</RegionName>
+</RegionData>

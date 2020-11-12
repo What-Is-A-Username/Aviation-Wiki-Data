@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>6403</UniqueXMLID>
+			<AirportName>Flamingo International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kralendijk, Bonaire</CityName>
+			<CountryName>Caribbean Netherlands</CountryName>
+			<RegionName>Caribbean Netherlands</RegionName>
+			<ICAOCode>TNCB</ICAOCode>
+			<IATACode>BON</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2880</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>6405</UniqueXMLID>
+			<AirportName>F. D. Roosevelt Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Sint Eustatius</CityName>
+			<CountryName>Caribbean Netherlands</CountryName>
+			<RegionName>Caribbean Netherlands</RegionName>
+			<ICAOCode>TNCE</ICAOCode>
+			<IATACode>EUX</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1300</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Caribbean Netherlands</RegionName>
+</RegionData>

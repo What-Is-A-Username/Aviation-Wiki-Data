@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>6363</UniqueXMLID>
+			<AirportName>Martinique Aimé Césaire International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Fort-de-France</CityName>
+			<CountryName>Martinique</CountryName>
+			<RegionName>Martinique</RegionName>
+			<ICAOCode>TFFF</ICAOCode>
+			<IATACode>FDF</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3300</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Martinique</RegionName>
+</RegionData>

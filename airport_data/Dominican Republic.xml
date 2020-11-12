@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4632</UniqueXMLID>
+			<AirportName>Maria Montez International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Barahona</CityName>
+			<CountryName>Dominican Republic</CountryName>
+			<RegionName>Dominican Republic</RegionName>
+			<ICAOCode>MDBH</ICAOCode>
+			<IATACode>BRX</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>30673</UniqueXMLID>
+			<AirportName>Samaná El Catey International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Samana</CityName>
+			<CountryName>Dominican Republic</CountryName>
+			<RegionName>Dominican Republic</RegionName>
+			<ICAOCode>MDCY</ICAOCode>
+			<IATACode>AZS</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3000</Length>
+					<SurfaceType>asphalt</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4634</UniqueXMLID>
+			<AirportName>La Isabela International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>La Isabela</CityName>
+			<CountryName>Dominican Republic</CountryName>
+			<RegionName>Dominican Republic</RegionName>
+			<ICAOCode>MDJB</ICAOCode>
+			<IATACode>JBQ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1650</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4635</UniqueXMLID>
+			<AirportName>Casa De Campo International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>La Romana</CityName>
+			<CountryName>Dominican Republic</CountryName>
+			<RegionName>Dominican Republic</RegionName>
+			<ICAOCode>MDLR</ICAOCode>
+			<IATACode>LRM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2949</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4636</UniqueXMLID>
+			<AirportName>Punta Cana International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Punta Cana</CityName>
+			<CountryName>Dominican Republic</CountryName>
+			<RegionName>Dominican Republic</RegionName>
+			<ICAOCode>MDPC</ICAOCode>
+			<IATACode>PUJ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3100</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3100</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4637</UniqueXMLID>
+			<AirportName>Gregorio Luperon International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Puerto Plata</CityName>
+			<CountryName>Dominican Republic</CountryName>
+			<RegionName>Dominican Republic</RegionName>
+			<ICAOCode>MDPP</ICAOCode>
+			<IATACode>POP</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3081</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4638</UniqueXMLID>
+			<AirportName>Las Américas International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Santo Domingo</CityName>
+			<CountryName>Dominican Republic</CountryName>
+			<RegionName>Dominican Republic</RegionName>
+			<ICAOCode>MDSD</ICAOCode>
+			<IATACode>SDQ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3353</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4640</UniqueXMLID>
+			<AirportName>Cibao International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Santiago</CityName>
+			<CountryName>Dominican Republic</CountryName>
+			<RegionName>Dominican Republic</RegionName>
+			<ICAOCode>MDST</ICAOCode>
+			<IATACode>STI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2620</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Dominican Republic</RegionName>
+</RegionData>

@@ -1,0 +1,812 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>5023</UniqueXMLID>
+			<AirportName>Auckland International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Auckland</CityName>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZAA</ICAOCode>
+			<IATACode>AKL</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3108</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3635</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5024</UniqueXMLID>
+			<AirportName>Taupo Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Taupo</CityName>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZAP</ICAOCode>
+			<IATACode>TUO</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>731</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1386</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5026</UniqueXMLID>
+			<AirportName>Christchurch International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Christchurch</CityName>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZCH</ICAOCode>
+			<IATACode>CHC</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>515</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3288</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1703</Length>
+					<SurfaceType>BIT</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5027</UniqueXMLID>
+			<AirportName>Chatham Islands-Tuuta Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Waitangi</CityName>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZCI</ICAOCode>
+			<IATACode>CHT</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1360</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5028</UniqueXMLID>
+			<AirportName>Dunedin Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Dunedin</CityName>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZDN</ICAOCode>
+			<IATACode>DUD</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1900</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5030</UniqueXMLID>
+			<AirportName>Gisborne Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Gisborne</CityName>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZGS</ICAOCode>
+			<IATACode>GIS</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1150</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1170</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>0</Length>
+					<SurfaceType>UNK</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>763</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1310</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5032</UniqueXMLID>
+			<AirportName>Hokitika Airfield</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZHK</ICAOCode>
+			<IATACode>HKK</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1314</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1176</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5033</UniqueXMLID>
+			<AirportName>Hamilton International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Hamilton</CityName>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZHN</ICAOCode>
+			<IATACode>HLZ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>620</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>620</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>0</Length>
+					<SurfaceType>UNK</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1960</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>875</Length>
+					<SurfaceType>ASP/GRS</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5036</UniqueXMLID>
+			<AirportName>Kerikeri Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kerikeri</CityName>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZKK</ICAOCode>
+			<IATACode>KKE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>490</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>0</Length>
+					<SurfaceType>UNK</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>685</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1190</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5037</UniqueXMLID>
+			<AirportName>Kaitaia Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kaitaia</CityName>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZKT</ICAOCode>
+			<IATACode>KAT</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1402</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1277</Length>
+					<SurfaceType>GVL</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5042</UniqueXMLID>
+			<AirportName>New Plymouth Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>New Plymouth</CityName>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZNP</ICAOCode>
+			<IATACode>NPL</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1310</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1000</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1200</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5043</UniqueXMLID>
+			<AirportName>Hawke's Bay Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Napier</CityName>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZNR</ICAOCode>
+			<IATACode>NPE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1219</Length>
+					<SurfaceType>COM</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>560</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>0</Length>
+					<SurfaceType>UNK</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>766</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1750</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5044</UniqueXMLID>
+			<AirportName>Nelson Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Nelson</CityName>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZNS</ICAOCode>
+			<IATACode>NSN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>0</Length>
+					<SurfaceType>UNK</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>731</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1347</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>671</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>600</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5045</UniqueXMLID>
+			<AirportName>Invercargill Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Invercargill</CityName>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZNV</ICAOCode>
+			<IATACode>IVC</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2210</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>695</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>426</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>913</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5047</UniqueXMLID>
+			<AirportName>Oamaru Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZOU</ICAOCode>
+			<IATACode>OAM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>846</Length>
+					<SurfaceType>GRE</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>947</Length>
+					<SurfaceType>GRE</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1283</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5049</UniqueXMLID>
+			<AirportName>Palmerston North Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZPM</ICAOCode>
+			<IATACode>PMR</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>0</Length>
+					<SurfaceType>UNK</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1902</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>608</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5051</UniqueXMLID>
+			<AirportName>Queenstown International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Queenstown</CityName>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZQN</ICAOCode>
+			<IATACode>ZQN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1891</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>944</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5052</UniqueXMLID>
+			<AirportName>Rotorua Regional Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Rotorua</CityName>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZRO</ICAOCode>
+			<IATACode>ROT</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>0</Length>
+					<SurfaceType>UNK</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>833</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1622</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5055</UniqueXMLID>
+			<AirportName>Tauranga Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Tauranga</CityName>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZTG</ICAOCode>
+			<IATACode>TRG</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>640</Length>
+					<SurfaceType>GRE</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>0</Length>
+					<SurfaceType>UNK</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>775</Length>
+					<SurfaceType>GRE</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1825</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>700</Length>
+					<SurfaceType>GRE</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5056</UniqueXMLID>
+			<AirportName>Timaru Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZTU</ICAOCode>
+			<IATACode>TIU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1280</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1188</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1113</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5058</UniqueXMLID>
+			<AirportName>Woodbourne Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Blenheim</CityName>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZWB</ICAOCode>
+			<IATACode>BHE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1425</Length>
+					<SurfaceType>GRE</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1425</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1182</Length>
+					<SurfaceType>GRE</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5060</UniqueXMLID>
+			<AirportName>Wanaka Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZWF</ICAOCode>
+			<IATACode>WKA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1200</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5062</UniqueXMLID>
+			<AirportName>Whakatane Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZWK</ICAOCode>
+			<IATACode>WHK</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>0</Length>
+					<SurfaceType>UNK</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1280</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>750</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5063</UniqueXMLID>
+			<AirportName>Wellington International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Wellington</CityName>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZWN</ICAOCode>
+			<IATACode>WLG</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1936</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5066</UniqueXMLID>
+			<AirportName>Whangarei Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZWR</ICAOCode>
+			<IATACode>WRE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1097</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>475</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5067</UniqueXMLID>
+			<AirportName>Westport Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZWS</ICAOCode>
+			<IATACode>WSZ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1280</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5068</UniqueXMLID>
+			<AirportName>Wanganui Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Wanganui</CityName>
+			<CountryName>New Zealand</CountryName>
+			<RegionName>New Zealand</RegionName>
+			<ICAOCode>NZWU</ICAOCode>
+			<IATACode>WAG</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>877</Length>
+					<SurfaceType>GRE</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>0</Length>
+					<SurfaceType>UNK</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1378</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>504</Length>
+					<SurfaceType>GRE</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>840</Length>
+					<SurfaceType>GRE</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>902</Length>
+					<SurfaceType>GRE</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>New Zealand</RegionName>
+</RegionData>

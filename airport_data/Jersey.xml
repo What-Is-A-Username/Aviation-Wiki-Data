@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>2426</UniqueXMLID>
+			<AirportName>Jersey Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Saint Helier</CityName>
+			<CountryName>Jersey</CountryName>
+			<RegionName>Jersey</RegionName>
+			<ICAOCode>EGJJ</ICAOCode>
+			<IATACode>JER</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1706</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Jersey</RegionName>
+</RegionData>

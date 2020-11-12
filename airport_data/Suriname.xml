@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>6195</UniqueXMLID>
+			<AirportName>Johan Adolf Pengel International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Zandery</CityName>
+			<CountryName>Suriname</CountryName>
+			<RegionName>Suriname</RegionName>
+			<ICAOCode>SMJP</ICAOCode>
+			<IATACode>PBM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3480</Length>
+					<SurfaceType>ASPHALT</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Suriname</RegionName>
+</RegionData>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>2424</UniqueXMLID>
+			<AirportName>Alderney Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Saint Anne</CityName>
+			<CountryName>Guernsey</CountryName>
+			<RegionName>Guernsey</RegionName>
+			<ICAOCode>EGJA</ICAOCode>
+			<IATACode>ACI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>497</Length>
+					<SurfaceType>GRE</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>880</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>732</Length>
+					<SurfaceType>GRE</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2425</UniqueXMLID>
+			<AirportName>Guernsey Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Saint Peter Port</CityName>
+			<CountryName>Guernsey</CountryName>
+			<RegionName>Guernsey</RegionName>
+			<ICAOCode>EGJB</ICAOCode>
+			<IATACode>GCI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1583</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Guernsey</RegionName>
+</RegionData>

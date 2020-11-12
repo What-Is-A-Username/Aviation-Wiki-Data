@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>6359</UniqueXMLID>
+			<AirportName>V.C. Bird International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>St. John's</CityName>
+			<CountryName>Antigua and Barbuda</CountryName>
+			<RegionName>Antigua and Barbuda</RegionName>
+			<ICAOCode>TAPA</ICAOCode>
+			<IATACode>ANU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2744</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Antigua and Barbuda</RegionName>
+</RegionData>

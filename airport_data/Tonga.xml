@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4962</UniqueXMLID>
+			<AirportName>Fua'amotu International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Nuku'alofa</CityName>
+			<CountryName>Tonga</CountryName>
+			<RegionName>Tonga</RegionName>
+			<ICAOCode>NFTF</ICAOCode>
+			<IATACode>TBU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2681</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1509</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4963</UniqueXMLID>
+			<AirportName>Lifuka Island Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Lifuka</CityName>
+			<CountryName>Tonga</CountryName>
+			<RegionName>Tonga</RegionName>
+			<ICAOCode>NFTL</ICAOCode>
+			<IATACode>HPA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1200</Length>
+					<SurfaceType>BIT</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4964</UniqueXMLID>
+			<AirportName>Vava'u International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Vava'u Island</CityName>
+			<CountryName>Tonga</CountryName>
+			<RegionName>Tonga</RegionName>
+			<ICAOCode>NFTV</ICAOCode>
+			<IATACode>VAV</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1705</Length>
+					<SurfaceType>BIT</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Tonga</RegionName>
+</RegionData>

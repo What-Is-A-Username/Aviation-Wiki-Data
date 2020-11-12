@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4959</UniqueXMLID>
+			<AirportName>Nadi International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Nadi</CityName>
+			<CountryName>Fiji</CountryName>
+			<RegionName>Fiji</RegionName>
+			<ICAOCode>NFFN</ICAOCode>
+			<IATACode>NAN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3273</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>2136</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4960</UniqueXMLID>
+			<AirportName>Nausori International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Nausori</CityName>
+			<CountryName>Fiji</CountryName>
+			<RegionName>Fiji</RegionName>
+			<ICAOCode>NFNA</ICAOCode>
+			<IATACode>SUV</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1868</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4961</UniqueXMLID>
+			<AirportName>Labasa Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Fiji</CountryName>
+			<RegionName>Fiji</RegionName>
+			<ICAOCode>NFNL</ICAOCode>
+			<IATACode>LBS</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1073</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Fiji</RegionName>
+</RegionData>

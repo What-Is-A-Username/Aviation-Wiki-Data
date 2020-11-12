@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4467</UniqueXMLID>
+			<AirportName>Banja Luka International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Banja Luka</CityName>
+			<CountryName>Bosnia and Herzegovina</CountryName>
+			<RegionName>Bosnia and Herzegovina</RegionName>
+			<ICAOCode>LQBK</ICAOCode>
+			<IATACode>BNX</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2503</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4468</UniqueXMLID>
+			<AirportName>Mostar International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Mostar</CityName>
+			<CountryName>Bosnia and Herzegovina</CountryName>
+			<RegionName>Bosnia and Herzegovina</RegionName>
+			<ICAOCode>LQMO</ICAOCode>
+			<IATACode>OMO</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2400</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4469</UniqueXMLID>
+			<AirportName>Sarajevo International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Sarajevo</CityName>
+			<CountryName>Bosnia and Herzegovina</CountryName>
+			<RegionName>Bosnia and Herzegovina</RegionName>
+			<ICAOCode>LQSA</ICAOCode>
+			<IATACode>SJJ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2641</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Bosnia and Herzegovina</RegionName>
+</RegionData>

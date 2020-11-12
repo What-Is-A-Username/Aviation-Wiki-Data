@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>5222</UniqueXMLID>
+			<AirportName>Beirut Rafic Hariri International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Beirut</CityName>
+			<CountryName>Lebanon</CountryName>
+			<RegionName>Lebanon</RegionName>
+			<ICAOCode>OLBA</ICAOCode>
+			<IATACode>BEY</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3800</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3395</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3250</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Lebanon</RegionName>
+</RegionData>

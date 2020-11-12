@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>3097</UniqueXMLID>
+			<AirportName>Osvaldo Vieira International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Bissau</CityName>
+			<CountryName>Guinea-Bissau</CountryName>
+			<RegionName>Guinea-Bissau</RegionName>
+			<ICAOCode>GGOV</ICAOCode>
+			<IATACode>OXB</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3200</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Guinea-Bissau</RegionName>
+</RegionData>

@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4770</UniqueXMLID>
+			<AirportName>Bluefields Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Bluefileds</CityName>
+			<CountryName>Nicaragua</CountryName>
+			<RegionName>Nicaragua</RegionName>
+			<ICAOCode>MNBL</ICAOCode>
+			<IATACode>BEF</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2019</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4774</UniqueXMLID>
+			<AirportName>Augusto C. Sandino (Managua) International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Managua</CityName>
+			<CountryName>Nicaragua</CountryName>
+			<RegionName>Nicaragua</RegionName>
+			<ICAOCode>MNMG</ICAOCode>
+			<IATACode>MGA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2442</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4776</UniqueXMLID>
+			<AirportName>Puerto Cabezas Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Puerto Cabezas</CityName>
+			<CountryName>Nicaragua</CountryName>
+			<RegionName>Nicaragua</RegionName>
+			<ICAOCode>MNPC</ICAOCode>
+			<IATACode>PUZ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2478</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Nicaragua</RegionName>
+</RegionData>

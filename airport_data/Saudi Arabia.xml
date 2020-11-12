@@ -1,0 +1,606 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>5082</UniqueXMLID>
+			<AirportName>Abha Regional Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Abha</CityName>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OEAB</ICAOCode>
+			<IATACode>AHB</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3350</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5083</UniqueXMLID>
+			<AirportName>Al Ahsa Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OEAH</ICAOCode>
+			<IATACode>HOF</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3060</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5084</UniqueXMLID>
+			<AirportName>Al Baha Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OEBA</ICAOCode>
+			<IATACode>ABT</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3350</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5085</UniqueXMLID>
+			<AirportName>Bisha Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OEBH</ICAOCode>
+			<IATACode>BHH</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3050</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5087</UniqueXMLID>
+			<AirportName>King Fahd International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Ad Dammam</CityName>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OEDF</ICAOCode>
+			<IATACode>DMM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>4000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>4000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5088</UniqueXMLID>
+			<AirportName>King Salman Abdulaziz Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Dawadmi</CityName>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OEDM</ICAOCode>
+			<IATACode>DWD</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3050</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5090</UniqueXMLID>
+			<AirportName>Jizan Regional Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Jizan</CityName>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OEGN</ICAOCode>
+			<IATACode>GIZ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3050</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5091</UniqueXMLID>
+			<AirportName>Gassim Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OEGS</ICAOCode>
+			<IATACode>ELQ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5092</UniqueXMLID>
+			<AirportName>Gurayat Domestic Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Gurayat</CityName>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OEGT</ICAOCode>
+			<IATACode>URY</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3050</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5093</UniqueXMLID>
+			<AirportName>Ha'il Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Ha'il</CityName>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OEHL</ICAOCode>
+			<IATACode>HAS</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3720</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5097</UniqueXMLID>
+			<AirportName>King Abdulaziz International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Jeddah</CityName>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OEJN</ICAOCode>
+			<IATACode>JED</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3299</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>4000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3800</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5098</UniqueXMLID>
+			<AirportName>King Khaled Military City Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>King Khaled Military City</CityName>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OEKK</ICAOCode>
+			<IATACode>KMC</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3659</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5101</UniqueXMLID>
+			<AirportName>Prince Mohammad Bin Abdulaziz Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Medina</CityName>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OEMA</ICAOCode>
+			<IATACode>MED</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>4008</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3060</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5102</UniqueXMLID>
+			<AirportName>Nejran Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OENG</ICAOCode>
+			<IATACode>EAM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3050</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5103</UniqueXMLID>
+			<AirportName>Al Qaisumah/Hafr Al Batin Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Qaisumah</CityName>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OEPA</ICAOCode>
+			<IATACode>AQI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5111</UniqueXMLID>
+			<AirportName>Rafha Domestic Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Rafha</CityName>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OERF</ICAOCode>
+			<IATACode>RAH</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2997</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5112</UniqueXMLID>
+			<AirportName>King Khaled International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Riyadh</CityName>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OERK</ICAOCode>
+			<IATACode>RUH</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>4205</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>4205</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5114</UniqueXMLID>
+			<AirportName>Arar Domestic Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Arar</CityName>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OERR</ICAOCode>
+			<IATACode>RAE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3050</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5118</UniqueXMLID>
+			<AirportName>Sharurah Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OESH</ICAOCode>
+			<IATACode>SHW</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3650</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5119</UniqueXMLID>
+			<AirportName>Al-Jawf Domestic Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Al-Jawf</CityName>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OESK</ICAOCode>
+			<IATACode>AJF</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3661</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5121</UniqueXMLID>
+			<AirportName>Tabuk Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Tabuk</CityName>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OETB</ICAOCode>
+			<IATACode>TUU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3350</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3050</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5122</UniqueXMLID>
+			<AirportName>Ta’if Regional Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Ta’if</CityName>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OETF</ICAOCode>
+			<IATACode>TIF</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3735</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3350</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5125</UniqueXMLID>
+			<AirportName>Turaif Domestic Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Turaif</CityName>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OETR</ICAOCode>
+			<IATACode>TUI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5127</UniqueXMLID>
+			<AirportName>Wadi Al Dawasir Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OEWD</ICAOCode>
+			<IATACode>WAE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3050</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5128</UniqueXMLID>
+			<AirportName>Al Wajh Domestic Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Al Wajh</CityName>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OEWJ</ICAOCode>
+			<IATACode>EJH</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3050</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5129</UniqueXMLID>
+			<AirportName>Prince Abdulmohsin Bin Abdulaziz Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Yanbu</CityName>
+			<CountryName>Saudi Arabia</CountryName>
+			<RegionName>Saudi Arabia</RegionName>
+			<ICAOCode>OEYN</ICAOCode>
+			<IATACode>YNB</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3210</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Saudi Arabia</RegionName>
+</RegionData>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<FleetData>
+	<AircraftModel>
+		<ModelName>Airbus A320-200</ModelName>
+		<NumberInFleet>3</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="Unassigned" Number="180"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A320neo</ModelName>
+		<NumberInFleet>2</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="Unassigned" Number="186"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>ATR 42-500</ModelName>
+		<NumberInFleet>1</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes>From June 3rd 2019 Wet leased from Czech Airlines </Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="Unassigned" Number="48"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+</FleetData>

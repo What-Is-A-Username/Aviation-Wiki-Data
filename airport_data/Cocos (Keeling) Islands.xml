@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>27100</UniqueXMLID>
+			<AirportName>Cocos (Keeling) Islands Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Cocos (Keeling) Islands</CityName>
+			<CountryName>Cocos (Keeling) Islands</CountryName>
+			<RegionName>Cocos (Keeling) Islands</RegionName>
+			<ICAOCode>YPCC</ICAOCode>
+			<IATACode>CCK</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2438</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Cocos (Keeling) Islands</RegionName>
+</RegionData>

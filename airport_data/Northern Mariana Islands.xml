@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>5430</UniqueXMLID>
+			<AirportName>Rota International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Rota Island</CityName>
+			<CountryName>Northern Mariana Islands</CountryName>
+			<RegionName>Northern Mariana Islands</RegionName>
+			<ICAOCode>PGRO</ICAOCode>
+			<IATACode>ROP</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1829</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5431</UniqueXMLID>
+			<AirportName>Saipan International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Saipan Island</CityName>
+			<CountryName>Northern Mariana Islands</CountryName>
+			<RegionName>Northern Mariana Islands</RegionName>
+			<ICAOCode>PGSN</ICAOCode>
+			<IATACode>SPN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2652</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Northern Mariana Islands</RegionName>
+</RegionData>

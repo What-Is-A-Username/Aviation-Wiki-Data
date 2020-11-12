@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4679</UniqueXMLID>
+			<AirportName>Boscobel Aerodrome</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Ocho Rios</CityName>
+			<CountryName>Jamaica</CountryName>
+			<RegionName>Jamaica</RegionName>
+			<ICAOCode>MKBS</ICAOCode>
+			<IATACode>OCJ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>914</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4680</UniqueXMLID>
+			<AirportName>Norman Manley International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kingston</CityName>
+			<CountryName>Jamaica</CountryName>
+			<RegionName>Jamaica</RegionName>
+			<ICAOCode>MKJP</ICAOCode>
+			<IATACode>KIN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2713</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4681</UniqueXMLID>
+			<AirportName>Sangster International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Montego Bay</CityName>
+			<CountryName>Jamaica</CountryName>
+			<RegionName>Jamaica</RegionName>
+			<ICAOCode>MKJS</ICAOCode>
+			<IATACode>MBJ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2662</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4683</UniqueXMLID>
+			<AirportName>Tinson Pen Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Tinson Pen</CityName>
+			<CountryName>Jamaica</CountryName>
+			<RegionName>Jamaica</RegionName>
+			<ICAOCode>MKTP</ICAOCode>
+			<IATACode>KTP</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1311</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Jamaica</RegionName>
+</RegionData>

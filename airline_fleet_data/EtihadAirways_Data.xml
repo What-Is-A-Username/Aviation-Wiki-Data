@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<FleetData>
+	<AircraftModel>
+		<ModelName>Airbus A320-200</ModelName>
+		<NumberInFleet>20</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="The Residence" Number="0"/>
+				<SeatingClass ClassName="First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="16"/>
+				<SeatingClass ClassName="Economy" Number="120"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="The Residence" Number="0"/>
+				<SeatingClass ClassName="First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="8"/>
+				<SeatingClass ClassName="Economy" Number="150"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A321-200</ModelName>
+		<NumberInFleet>10</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="The Residence" Number="0"/>
+				<SeatingClass ClassName="First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="8"/>
+				<SeatingClass ClassName="Economy" Number="188"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A321neo</ModelName>
+		<NumberInFleet>0</NumberInFleet>
+		<Orders>26</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="The Residence" Number="0"/>
+				<SeatingClass ClassName="First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="0"/>
+				<SeatingClass ClassName="Economy" Number="0"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A350-1000</ModelName>
+		<NumberInFleet>0</NumberInFleet>
+		<Orders>20</Orders>
+		<Notes>Only 5 aircraft confirmed for delivery which already have been delivered and stored.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="The Residence" Number="0"/>
+				<SeatingClass ClassName="First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="0"/>
+				<SeatingClass ClassName="Economy" Number="0"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A380-800</ModelName>
+		<NumberInFleet>10</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="The Residence" Number="2"/>
+				<SeatingClass ClassName="First" Number="9"/>
+				<SeatingClass ClassName="Business" Number="70"/>
+				<SeatingClass ClassName="Economy" Number="405"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 777-300ER</ModelName>
+		<NumberInFleet>19</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="The Residence" Number="0"/>
+				<SeatingClass ClassName="First" Number="8"/>
+				<SeatingClass ClassName="Business" Number="40"/>
+				<SeatingClass ClassName="Economy" Number="280"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="The Residence" Number="0"/>
+				<SeatingClass ClassName="First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="40"/>
+				<SeatingClass ClassName="Economy" Number="330"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="The Residence" Number="0"/>
+				<SeatingClass ClassName="First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="28"/>
+				<SeatingClass ClassName="Economy" Number="374"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 777-9</ModelName>
+		<NumberInFleet>0</NumberInFleet>
+		<Orders>6</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="The Residence" Number="0"/>
+				<SeatingClass ClassName="First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="0"/>
+				<SeatingClass ClassName="Economy" Number="0"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 787-9</ModelName>
+		<NumberInFleet>30</NumberInFleet>
+		<Orders>11</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="The Residence" Number="0"/>
+				<SeatingClass ClassName="First" Number="8"/>
+				<SeatingClass ClassName="Business" Number="28"/>
+				<SeatingClass ClassName="Economy" Number="199"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="The Residence" Number="0"/>
+				<SeatingClass ClassName="First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="28"/>
+				<SeatingClass ClassName="Economy" Number="262"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 787-10</ModelName>
+		<NumberInFleet>9</NumberInFleet>
+		<Orders>21</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="The Residence" Number="0"/>
+				<SeatingClass ClassName="First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="32"/>
+				<SeatingClass ClassName="Economy" Number="304"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+</FleetData>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>26632</UniqueXMLID>
+			<AirportName>Paro Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Paro</CityName>
+			<CountryName>Bhutan</CountryName>
+			<RegionName>Bhutan</RegionName>
+			<ICAOCode>VQPR</ICAOCode>
+			<IATACode>PBH</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2265</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Bhutan</RegionName>
+</RegionData>

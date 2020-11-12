@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>35242</UniqueXMLID>
+			<AirportName>Orang Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Hoemun-ri</CityName>
+			<CountryName>North Korea</CountryName>
+			<RegionName>North Korea</RegionName>
+			<ICAOCode>ZKHM</ICAOCode>
+			<IATACode>RGO</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2500</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>27203</UniqueXMLID>
+			<AirportName>Pyongyang Sunan International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Pyongyang</CityName>
+			<CountryName>North Korea</CountryName>
+			<RegionName>North Korea</RegionName>
+			<ICAOCode>ZKPY</ICAOCode>
+			<IATACode>FNJ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3802</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3502</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>35218</UniqueXMLID>
+			<AirportName>Sondok Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Sŏndŏng-ni</CityName>
+			<CountryName>North Korea</CountryName>
+			<RegionName>North Korea</RegionName>
+			<ICAOCode>ZKSD</ICAOCode>
+			<IATACode>DSO</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways/>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>35213</UniqueXMLID>
+			<AirportName>Wonsan Kalma International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Wonsan</CityName>
+			<CountryName>North Korea</CountryName>
+			<RegionName>North Korea</RegionName>
+			<ICAOCode>ZKWS</ICAOCode>
+			<IATACode>WOS</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways/>
+		</Airport>
+	</Airports>
+	<RegionName>North Korea</RegionName>
+</RegionData>

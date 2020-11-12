@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>3015</UniqueXMLID>
+			<AirportName>Chileka International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Blantyre</CityName>
+			<CountryName>Malawi</CountryName>
+			<RegionName>Malawi</RegionName>
+			<ICAOCode>FWCL</ICAOCode>
+			<IATACode>BLZ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2325</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1372</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3018</UniqueXMLID>
+			<AirportName>Lilongwe International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Lilongwe</CityName>
+			<CountryName>Malawi</CountryName>
+			<RegionName>Malawi</RegionName>
+			<ICAOCode>FWKI</ICAOCode>
+			<IATACode>LLW</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3540</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3020</UniqueXMLID>
+			<AirportName>Mzuzu Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Mzuzu</CityName>
+			<CountryName>Malawi</CountryName>
+			<RegionName>Malawi</RegionName>
+			<ICAOCode>FWUU</ICAOCode>
+			<IATACode>ZZU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1308</Length>
+					<SurfaceType>BIT</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Malawi</RegionName>
+</RegionData>

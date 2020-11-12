@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>6365</UniqueXMLID>
+			<AirportName>Les Bases Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Grand Bourg</CityName>
+			<CountryName>Guadeloupe</CountryName>
+			<RegionName>Guadeloupe</RegionName>
+			<ICAOCode>TFFM</ICAOCode>
+			<IATACode>GBJ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1240</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>6366</UniqueXMLID>
+			<AirportName>Pointe-à-Pitre Le Raizet</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Pointe-à-Pitre</CityName>
+			<CountryName>Guadeloupe</CountryName>
+			<RegionName>Guadeloupe</RegionName>
+			<ICAOCode>TFFR</ICAOCode>
+			<IATACode>PTP</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3505</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Guadeloupe</RegionName>
+</RegionData>

@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4626</UniqueXMLID>
+			<AirportName>JAGS McCartney International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Cockburn Town</CityName>
+			<CountryName>Turks and Caicos Islands</CountryName>
+			<RegionName>Turks and Caicos Islands</RegionName>
+			<ICAOCode>MBGT</ICAOCode>
+			<IATACode>GDT</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1939</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4627</UniqueXMLID>
+			<AirportName>North Caicos Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Turks and Caicos Islands</CountryName>
+			<RegionName>Turks and Caicos Islands</RegionName>
+			<ICAOCode>MBNC</ICAOCode>
+			<IATACode>NCA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1294</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4628</UniqueXMLID>
+			<AirportName>Providenciales Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Providenciales Island</CityName>
+			<CountryName>Turks and Caicos Islands</CountryName>
+			<RegionName>Turks and Caicos Islands</RegionName>
+			<ICAOCode>MBPV</ICAOCode>
+			<IATACode>PLS</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2316</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4629</UniqueXMLID>
+			<AirportName>South Caicos Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Turks and Caicos Islands</CountryName>
+			<RegionName>Turks and Caicos Islands</RegionName>
+			<ICAOCode>MBSC</ICAOCode>
+			<IATACode>XSC</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1826</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Turks and Caicos Islands</RegionName>
+</RegionData>

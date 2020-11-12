@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>31215</UniqueXMLID>
+			<AirportName>Pointe Vele Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Futuna Island</CityName>
+			<CountryName>Wallis and Futuna</CountryName>
+			<RegionName>Wallis and Futuna</RegionName>
+			<ICAOCode>NLWF</ICAOCode>
+			<IATACode>FUT</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1100</Length>
+					<SurfaceType>UNK</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4975</UniqueXMLID>
+			<AirportName>Hihifo Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Wallis Island</CityName>
+			<CountryName>Wallis and Futuna</CountryName>
+			<RegionName>Wallis and Futuna</RegionName>
+			<ICAOCode>NLWW</ICAOCode>
+			<IATACode>WLS</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2100</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Wallis and Futuna</RegionName>
+</RegionData>

@@ -1,0 +1,229 @@
+<?xml version="1.0" ?>
+<FleetData>
+	<AircraftModel>
+		<ModelName>Airbus A220-300</ModelName>
+		<NumberInFleet>0</NumberInFleet>
+		<Orders>60</Orders>
+		<Notes>Deliveries to start in September 2021.Replacing Airbus A318 and Airbus A319.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="0"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy" Number="149"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A318-100</ModelName>
+		<NumberInFleet>18</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes>All to be retired by 2021.To be replaced by Airbus A220-300.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="0"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy" Number="131"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="18"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy" Number="113"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A319-100</ModelName>
+		<NumberInFleet>33</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes>142</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="0"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy" Number="142"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="0"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy" Number="143"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="0"/>
+				<SeatingClass ClassName="Premium Economy" Number="123"/>
+				<SeatingClass ClassName="Economy" Number="143"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A320-200</ModelName>
+		<NumberInFleet>44</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes>Two painted in the SkyTeam livery.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="14"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy" Number="144"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="0"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy" Number="174"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="36"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy" Number="138"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="0"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy" Number="178"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A321-100</ModelName>
+		<NumberInFleet>5</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes>Taken over from Air Inter.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="0"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy" Number="212"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A321-200</ModelName>
+		<NumberInFleet>15</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes>One painted in SkyTeam livery.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="0"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy" Number="200"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="0"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy" Number="212"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="36"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy" Number="176"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A330-200</ModelName>
+		<NumberInFleet>15</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="36"/>
+				<SeatingClass ClassName="Premium Economy" Number="21"/>
+				<SeatingClass ClassName="Economy" Number="167"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A350-900</ModelName>
+		<NumberInFleet>6</NumberInFleet>
+		<Orders>32</Orders>
+		<Notes>To replace older Boeing 777-200ER.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="34"/>
+				<SeatingClass ClassName="Premium Economy" Number="24"/>
+				<SeatingClass ClassName="Economy" Number="266"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 777-200ER</ModelName>
+		<NumberInFleet>25</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes>Some to be replaced by Airbus A350.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="40"/>
+				<SeatingClass ClassName="Premium Economy" Number="24"/>
+				<SeatingClass ClassName="Economy" Number="216"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 777-300ER</ModelName>
+		<NumberInFleet>43</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes>Launch customerThree painted in SkyTeam livery.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="4"/>
+				<SeatingClass ClassName="Business" Number="58"/>
+				<SeatingClass ClassName="Premium Economy" Number="28"/>
+				<SeatingClass ClassName="Economy" Number="206"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="4"/>
+				<SeatingClass ClassName="Business" Number="38"/>
+				<SeatingClass ClassName="Premium Economy" Number="28"/>
+				<SeatingClass ClassName="Economy" Number="252"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="42"/>
+				<SeatingClass ClassName="Premium Economy" Number="24"/>
+				<SeatingClass ClassName="Economy" Number="315"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="14"/>
+				<SeatingClass ClassName="Premium Economy" Number="32"/>
+				<SeatingClass ClassName="Economy" Number="422"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="14"/>
+				<SeatingClass ClassName="Premium Economy" Number="28"/>
+				<SeatingClass ClassName="Economy" Number="430"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 787-9</ModelName>
+		<NumberInFleet>10</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="La Première/First" Number="0"/>
+				<SeatingClass ClassName="Business" Number="30"/>
+				<SeatingClass ClassName="Premium Economy" Number="21"/>
+				<SeatingClass ClassName="Economy" Number="225"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+</FleetData>

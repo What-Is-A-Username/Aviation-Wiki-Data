@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>3237</UniqueXMLID>
+			<AirportName>Kigali International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kigali</CityName>
+			<CountryName>Rwanda</CountryName>
+			<RegionName>Rwanda</RegionName>
+			<ICAOCode>HRYR</ICAOCode>
+			<IATACode>KGL</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3500</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3238</UniqueXMLID>
+			<AirportName>Kamembe Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kamembe</CityName>
+			<CountryName>Rwanda</CountryName>
+			<RegionName>Rwanda</RegionName>
+			<ICAOCode>HRZA</ICAOCode>
+			<IATACode>KME</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1500</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Rwanda</RegionName>
+</RegionData>

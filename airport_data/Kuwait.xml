@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>5220</UniqueXMLID>
+			<AirportName>Kuwait International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kuwait City</CityName>
+			<CountryName>Kuwait</CountryName>
+			<RegionName>Kuwait</RegionName>
+			<ICAOCode>OKBK</ICAOCode>
+			<IATACode>KWI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3500</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3400</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Kuwait</RegionName>
+</RegionData>

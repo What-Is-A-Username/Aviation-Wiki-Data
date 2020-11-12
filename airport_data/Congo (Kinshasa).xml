@@ -1,0 +1,358 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>3040</UniqueXMLID>
+			<AirportName>Ndjili International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kinshasa</CityName>
+			<CountryName>Congo (Kinshasa)</CountryName>
+			<RegionName>Congo (Kinshasa)</RegionName>
+			<ICAOCode>FZAA</ICAOCode>
+			<IATACode>FIH</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>4700</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3044</UniqueXMLID>
+			<AirportName>Bandundu Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Congo (Kinshasa)</CountryName>
+			<RegionName>Congo (Kinshasa)</RegionName>
+			<ICAOCode>FZBO</ICAOCode>
+			<IATACode>FDU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1380</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3045</UniqueXMLID>
+			<AirportName>Kikwit Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Congo (Kinshasa)</CountryName>
+			<RegionName>Congo (Kinshasa)</RegionName>
+			<ICAOCode>FZCA</ICAOCode>
+			<IATACode>KKW</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1570</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3046</UniqueXMLID>
+			<AirportName>Mbandaka Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Mbandaka</CityName>
+			<CountryName>Congo (Kinshasa)</CountryName>
+			<RegionName>Congo (Kinshasa)</RegionName>
+			<ICAOCode>FZEA</ICAOCode>
+			<IATACode>MDK</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2202</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3047</UniqueXMLID>
+			<AirportName>Gbadolite Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Congo (Kinshasa)</CountryName>
+			<RegionName>Congo (Kinshasa)</RegionName>
+			<ICAOCode>FZFD</ICAOCode>
+			<IATACode>BDT</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3200</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3048</UniqueXMLID>
+			<AirportName>Gemena Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Gemena</CityName>
+			<CountryName>Congo (Kinshasa)</CountryName>
+			<RegionName>Congo (Kinshasa)</RegionName>
+			<ICAOCode>FZFK</ICAOCode>
+			<IATACode>GMA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1996</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3052</UniqueXMLID>
+			<AirportName>Bangoka International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kisangani</CityName>
+			<CountryName>Congo (Kinshasa)</CountryName>
+			<RegionName>Congo (Kinshasa)</RegionName>
+			<ICAOCode>FZIC</ICAOCode>
+			<IATACode>FKI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3500</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3053</UniqueXMLID>
+			<AirportName>Matari Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Congo (Kinshasa)</CountryName>
+			<RegionName>Congo (Kinshasa)</RegionName>
+			<ICAOCode>FZJH</ICAOCode>
+			<IATACode>IRP</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2500</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3054</UniqueXMLID>
+			<AirportName>Bunia Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Congo (Kinshasa)</CountryName>
+			<RegionName>Congo (Kinshasa)</RegionName>
+			<ICAOCode>FZKA</ICAOCode>
+			<IATACode>BUX</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1850</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3057</UniqueXMLID>
+			<AirportName>Goma International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Goma</CityName>
+			<CountryName>Congo (Kinshasa)</CountryName>
+			<RegionName>Congo (Kinshasa)</RegionName>
+			<ICAOCode>FZNA</ICAOCode>
+			<IATACode>GOM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1995</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3058</UniqueXMLID>
+			<AirportName>Kindu Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kindu</CityName>
+			<CountryName>Congo (Kinshasa)</CountryName>
+			<RegionName>Congo (Kinshasa)</RegionName>
+			<ICAOCode>FZOA</ICAOCode>
+			<IATACode>KND</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2200</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3059</UniqueXMLID>
+			<AirportName>Lubumbashi International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Lubumbashi</CityName>
+			<CountryName>Congo (Kinshasa)</CountryName>
+			<RegionName>Congo (Kinshasa)</RegionName>
+			<ICAOCode>FZQA</ICAOCode>
+			<IATACode>FBM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3238</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3060</UniqueXMLID>
+			<AirportName>Kolwezi Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Congo (Kinshasa)</CountryName>
+			<RegionName>Congo (Kinshasa)</RegionName>
+			<ICAOCode>FZQM</ICAOCode>
+			<IATACode>KWZ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1750</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3061</UniqueXMLID>
+			<AirportName>Kalemie Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Congo (Kinshasa)</CountryName>
+			<RegionName>Congo (Kinshasa)</RegionName>
+			<ICAOCode>FZRF</ICAOCode>
+			<IATACode>FMI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1750</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3063</UniqueXMLID>
+			<AirportName>Kananga Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kananga</CityName>
+			<CountryName>Congo (Kinshasa)</CountryName>
+			<RegionName>Congo (Kinshasa)</RegionName>
+			<ICAOCode>FZUA</ICAOCode>
+			<IATACode>KGA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2200</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3064</UniqueXMLID>
+			<AirportName>Mbuji Mayi Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Mbuji Mayi</CityName>
+			<CountryName>Congo (Kinshasa)</CountryName>
+			<RegionName>Congo (Kinshasa)</RegionName>
+			<ICAOCode>FZWA</ICAOCode>
+			<IATACode>MJM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1999</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Congo (Kinshasa)</RegionName>
+</RegionData>

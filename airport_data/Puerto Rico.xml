@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>6379</UniqueXMLID>
+			<AirportName>Rafael Hernandez Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Aguadilla</CityName>
+			<CountryName>Puerto Rico</CountryName>
+			<RegionName>Puerto Rico</RegionName>
+			<ICAOCode>TJBQ</ICAOCode>
+			<IATACode>BQN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3567</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>6381</UniqueXMLID>
+			<AirportName>Fernando Luis Ribas Dominicci Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>San Juan</CityName>
+			<CountryName>Puerto Rico</CountryName>
+			<RegionName>Puerto Rico</RegionName>
+			<ICAOCode>TJIG</ICAOCode>
+			<IATACode>SIG</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1621</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>6382</UniqueXMLID>
+			<AirportName>Eugenio Maria De Hostos Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Mayaguez</CityName>
+			<CountryName>Puerto Rico</CountryName>
+			<RegionName>Puerto Rico</RegionName>
+			<ICAOCode>TJMZ</ICAOCode>
+			<IATACode>MAZ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1523</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>6383</UniqueXMLID>
+			<AirportName>Mercedita Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Ponce</CityName>
+			<CountryName>Puerto Rico</CountryName>
+			<RegionName>Puerto Rico</RegionName>
+			<ICAOCode>TJPS</ICAOCode>
+			<IATACode>PSE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2104</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>6384</UniqueXMLID>
+			<AirportName>Luis Munoz Marin International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>San Juan</CityName>
+			<CountryName>Puerto Rico</CountryName>
+			<RegionName>Puerto Rico</RegionName>
+			<ICAOCode>TJSJ</ICAOCode>
+			<IATACode>SJU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3049</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>2443</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Puerto Rico</RegionName>
+</RegionData>

@@ -1,0 +1,520 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>2772</UniqueXMLID>
+			<AirportName>Bram Fischer International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Bloemfontain</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FABL</ICAOCode>
+			<IATACode>BFN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2559</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>2195</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2775</UniqueXMLID>
+			<AirportName>Cape Town International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Cape Town</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FACT</ICAOCode>
+			<IATACode>CPT</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3201</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1701</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2779</UniqueXMLID>
+			<AirportName>Ben Schoeman Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>East London</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FAEL</ICAOCode>
+			<IATACode>ELS</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1585</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1939</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2783</UniqueXMLID>
+			<AirportName>George Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>George</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FAGG</ICAOCode>
+			<IATACode>GRJ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2784</UniqueXMLID>
+			<AirportName>Rand Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Johannesburg</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FAGM</ICAOCode>
+			<IATACode>QRA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1712</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1493</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2794</UniqueXMLID>
+			<AirportName>Kimberley Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kimberley</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FAKM</ICAOCode>
+			<IATACode>KIM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>2439</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2795</UniqueXMLID>
+			<AirportName>Kruger Mpumalanga International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Mpumalanga</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FAKN</ICAOCode>
+			<IATACode>MQP</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3100</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2800</UniqueXMLID>
+			<AirportName>Lanseria Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Johannesburg</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FALA</ICAOCode>
+			<IATACode>HLA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3048</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3047</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>300795</UniqueXMLID>
+			<AirportName>King Shaka International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Durban</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FALE</ICAOCode>
+			<IATACode>DUR</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3700</Length>
+					<SurfaceType>Asphalt</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2808</UniqueXMLID>
+			<AirportName>Malamala Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Malamala</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FAMD</ICAOCode>
+			<IATACode>AAM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1263</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2809</UniqueXMLID>
+			<AirportName>Margate Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Margate</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FAMG</ICAOCode>
+			<IATACode>MGH</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1370</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2812</UniqueXMLID>
+			<AirportName>Mmabatho International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Mafeking</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FAMM</ICAOCode>
+			<IATACode>MBD</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>4620</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>31055</UniqueXMLID>
+			<AirportName>OR Tambo International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Johannesburg</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FAOR</ICAOCode>
+			<IATACode>JNB</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>4418</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3400</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2820</UniqueXMLID>
+			<AirportName>Port Elizabeth Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Port Elizabeth</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FAPE</ICAOCode>
+			<IATACode>PLZ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1980</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1178</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1677</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2822</UniqueXMLID>
+			<AirportName>Hendrik Van Eck Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Phalaborwa</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FAPH</ICAOCode>
+			<IATACode>PHW</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1369</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2825</UniqueXMLID>
+			<AirportName>Pietermaritzburg Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Pietermaritzburg</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FAPM</ICAOCode>
+			<IATACode>PZB</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1537</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2827</UniqueXMLID>
+			<AirportName>Polokwane International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Polokwane</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FAPP</ICAOCode>
+			<IATACode>PTG</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2560</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>2320</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2831</UniqueXMLID>
+			<AirportName>Richards Bay Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Richards Bay</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FARB</ICAOCode>
+			<IATACode>RCB</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1300</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2847</UniqueXMLID>
+			<AirportName>Pierre Van Ryneveld Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Upington</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FAUP</ICAOCode>
+			<IATACode>UTN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>834</Length>
+					<SurfaceType>COM</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>4900</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2848</UniqueXMLID>
+			<AirportName>K. D. Matanzima Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Mthatha</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FAUT</ICAOCode>
+			<IATACode>UTT</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1500</Length>
+					<SurfaceType>GRE</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>2000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2854</UniqueXMLID>
+			<AirportName>Wonderboom Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Pretoria</CityName>
+			<CountryName>South Africa</CountryName>
+			<RegionName>South Africa</RegionName>
+			<ICAOCode>FAWB</ICAOCode>
+			<IATACode>PRY</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1280</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1828</Length>
+					<SurfaceType>Asphalt</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>South Africa</RegionName>
+</RegionData>

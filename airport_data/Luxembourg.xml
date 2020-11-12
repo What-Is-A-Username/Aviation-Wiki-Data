@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>2563</UniqueXMLID>
+			<AirportName>Luxembourg-Findel International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Luxembourg</CityName>
+			<CountryName>Luxembourg</CountryName>
+			<RegionName>Luxembourg</RegionName>
+			<ICAOCode>ELLX</ICAOCode>
+			<IATACode>LUX</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>4000</Length>
+					<SurfaceType>PEM</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Luxembourg</RegionName>
+</RegionData>

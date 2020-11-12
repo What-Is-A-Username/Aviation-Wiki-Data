@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>5433</UniqueXMLID>
+			<AirportName>Antonio B. Won Pat International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Hagåtña, Guam International Airport</CityName>
+			<CountryName>Guam</CountryName>
+			<RegionName>Guam</RegionName>
+			<ICAOCode>PGUM</ICAOCode>
+			<IATACode>GUM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3662</Length>
+					<SurfaceType>asphalt</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3052</Length>
+					<SurfaceType>asphalt</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Guam</RegionName>
+</RegionData>

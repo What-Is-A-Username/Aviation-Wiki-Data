@@ -1,0 +1,243 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>32439</UniqueXMLID>
+			<AirportName>Tiga Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Tiga</CityName>
+			<CountryName>New Caledonia</CountryName>
+			<RegionName>New Caledonia</RegionName>
+			<ICAOCode>NWWA</ICAOCode>
+			<IATACode>TGJ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways/>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>30778</UniqueXMLID>
+			<AirportName>Île Art - Waala Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Waala</CityName>
+			<CountryName>New Caledonia</CountryName>
+			<RegionName>New Caledonia</RegionName>
+			<ICAOCode>NWWC</ICAOCode>
+			<IATACode>BMY</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>600</Length>
+					<SurfaceType>Asphalt</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5013</UniqueXMLID>
+			<AirportName>Koné Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Koné</CityName>
+			<CountryName>New Caledonia</CountryName>
+			<RegionName>New Caledonia</RegionName>
+			<ICAOCode>NWWD</ICAOCode>
+			<IATACode>KNQ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1000</Length>
+					<SurfaceType>MAC</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5014</UniqueXMLID>
+			<AirportName>Île des Pins Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Île des Pins</CityName>
+			<CountryName>New Caledonia</CountryName>
+			<RegionName>New Caledonia</RegionName>
+			<ICAOCode>NWWE</ICAOCode>
+			<IATACode>ILP</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1100</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5015</UniqueXMLID>
+			<AirportName>Koumac Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Koumac</CityName>
+			<CountryName>New Caledonia</CountryName>
+			<RegionName>New Caledonia</RegionName>
+			<ICAOCode>NWWK</ICAOCode>
+			<IATACode>KOC</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1102</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5016</UniqueXMLID>
+			<AirportName>Lifou Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Lifou</CityName>
+			<CountryName>New Caledonia</CountryName>
+			<RegionName>New Caledonia</RegionName>
+			<ICAOCode>NWWL</ICAOCode>
+			<IATACode>LIF</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1100</Length>
+					<SurfaceType>MAC</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5017</UniqueXMLID>
+			<AirportName>Nouméa Magenta Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Nouméa</CityName>
+			<CountryName>New Caledonia</CountryName>
+			<RegionName>New Caledonia</RegionName>
+			<ICAOCode>NWWM</ICAOCode>
+			<IATACode>GEA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1250</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5018</UniqueXMLID>
+			<AirportName>Maré Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Maré</CityName>
+			<CountryName>New Caledonia</CountryName>
+			<RegionName>New Caledonia</RegionName>
+			<ICAOCode>NWWR</ICAOCode>
+			<IATACode>MEE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5019</UniqueXMLID>
+			<AirportName>Touho Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Touho</CityName>
+			<CountryName>New Caledonia</CountryName>
+			<RegionName>New Caledonia</RegionName>
+			<ICAOCode>NWWU</ICAOCode>
+			<IATACode>TOU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1100</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5020</UniqueXMLID>
+			<AirportName>Ouvéa Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Ouvéa</CityName>
+			<CountryName>New Caledonia</CountryName>
+			<RegionName>New Caledonia</RegionName>
+			<ICAOCode>NWWV</ICAOCode>
+			<IATACode>UVE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1100</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5021</UniqueXMLID>
+			<AirportName>La Tontouta International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Nouméa</CityName>
+			<CountryName>New Caledonia</CountryName>
+			<RegionName>New Caledonia</RegionName>
+			<ICAOCode>NWWW</ICAOCode>
+			<IATACode>NOU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3250</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>New Caledonia</RegionName>
+</RegionData>

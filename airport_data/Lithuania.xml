@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>2760</UniqueXMLID>
+			<AirportName>Kaunas International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kaunas</CityName>
+			<CountryName>Lithuania</CountryName>
+			<RegionName>Lithuania</RegionName>
+			<ICAOCode>EYKA</ICAOCode>
+			<IATACode>KUN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3150</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2762</UniqueXMLID>
+			<AirportName>Palanga International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Palanga</CityName>
+			<CountryName>Lithuania</CountryName>
+			<RegionName>Lithuania</RegionName>
+			<ICAOCode>EYPA</ICAOCode>
+			<IATACode>PLQ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2766</UniqueXMLID>
+			<AirportName>Vilnius International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Vilnius</CityName>
+			<CountryName>Lithuania</CountryName>
+			<RegionName>Lithuania</RegionName>
+			<ICAOCode>EYVI</ICAOCode>
+			<IATACode>VNO</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2515</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Lithuania</RegionName>
+</RegionData>

@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>3150</UniqueXMLID>
+			<AirportName>Amílcar Cabral International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Espargos</CityName>
+			<CountryName>Cape Verde</CountryName>
+			<RegionName>Cape Verde</RegionName>
+			<ICAOCode>GVAC</ICAOCode>
+			<IATACode>SID</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3272</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1500</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3151</UniqueXMLID>
+			<AirportName>Rabil Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Rabil</CityName>
+			<CountryName>Cape Verde</CountryName>
+			<RegionName>Cape Verde</RegionName>
+			<ICAOCode>GVBA</ICAOCode>
+			<IATACode>BVC</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2100</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3152</UniqueXMLID>
+			<AirportName>Maio Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Vila do Maio</CityName>
+			<CountryName>Cape Verde</CountryName>
+			<RegionName>Cape Verde</RegionName>
+			<ICAOCode>GVMA</ICAOCode>
+			<IATACode>MMO</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>0</Length>
+					<SurfaceType>UNK</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1196</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3153</UniqueXMLID>
+			<AirportName>Praia International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Praia</CityName>
+			<CountryName>Cape Verde</CountryName>
+			<RegionName>Cape Verde</RegionName>
+			<ICAOCode>GVNP</ICAOCode>
+			<IATACode>RAI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>0</Length>
+					<SurfaceType>UNK</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1283</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>2096</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3154</UniqueXMLID>
+			<AirportName>Preguiça Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Preguiça</CityName>
+			<CountryName>Cape Verde</CountryName>
+			<RegionName>Cape Verde</RegionName>
+			<ICAOCode>GVSN</ICAOCode>
+			<IATACode>SNE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1400</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Cape Verde</RegionName>
+</RegionData>

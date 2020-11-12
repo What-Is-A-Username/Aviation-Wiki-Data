@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>3022</UniqueXMLID>
+			<AirportName>Moshoeshoe I International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Maseru</CityName>
+			<CountryName>Lesotho</CountryName>
+			<RegionName>Lesotho</RegionName>
+			<ICAOCode>FXMM</ICAOCode>
+			<IATACode>MSU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3200</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1010</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Lesotho</RegionName>
+</RegionData>

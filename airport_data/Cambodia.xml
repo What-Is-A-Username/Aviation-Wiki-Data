@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>26473</UniqueXMLID>
+			<AirportName>Battambang Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Battambang</CityName>
+			<CountryName>Cambodia</CountryName>
+			<RegionName>Cambodia</RegionName>
+			<ICAOCode>VDBG</ICAOCode>
+			<IATACode>BBM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1600</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>26475</UniqueXMLID>
+			<AirportName>Phnom Penh International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Phnom Penh</CityName>
+			<CountryName>Cambodia</CountryName>
+			<RegionName>Cambodia</RegionName>
+			<ICAOCode>VDPP</ICAOCode>
+			<IATACode>PNH</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>26476</UniqueXMLID>
+			<AirportName>Siem Reap International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Siem Reap</CityName>
+			<CountryName>Cambodia</CountryName>
+			<RegionName>Cambodia</RegionName>
+			<ICAOCode>VDSR</ICAOCode>
+			<IATACode>REP</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2550</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>26477</UniqueXMLID>
+			<AirportName>Stung Treng Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Stung Treng</CityName>
+			<CountryName>Cambodia</CountryName>
+			<RegionName>Cambodia</RegionName>
+			<ICAOCode>VDST</ICAOCode>
+			<IATACode>TNX</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1295</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Cambodia</RegionName>
+</RegionData>

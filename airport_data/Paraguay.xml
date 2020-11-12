@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>6088</UniqueXMLID>
+			<AirportName>Silvio Pettirossi International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Asunción</CityName>
+			<CountryName>Paraguay</CountryName>
+			<RegionName>Paraguay</RegionName>
+			<ICAOCode>SGAS</ICAOCode>
+			<IATACode>ASU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3352</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>6091</UniqueXMLID>
+			<AirportName>Guarani International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Ciudad del Este</CityName>
+			<CountryName>Paraguay</CountryName>
+			<RegionName>Paraguay</RegionName>
+			<ICAOCode>SGES</ICAOCode>
+			<IATACode>AGT</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3400</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Paraguay</RegionName>
+</RegionData>

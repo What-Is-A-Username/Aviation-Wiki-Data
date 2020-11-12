@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>5226</UniqueXMLID>
+			<AirportName>Abu Dhabi International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Abu Dhabi</CityName>
+			<CountryName>United Arab Emirates</CountryName>
+			<RegionName>United Arab Emirates</RegionName>
+			<ICAOCode>OMAA</ICAOCode>
+			<IATACode>AUH</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>4100</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>4100</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5230</UniqueXMLID>
+			<AirportName>Al Ain International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Al Ain</CityName>
+			<CountryName>United Arab Emirates</CountryName>
+			<RegionName>United Arab Emirates</RegionName>
+			<ICAOCode>OMAL</ICAOCode>
+			<IATACode>AAN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>4000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5235</UniqueXMLID>
+			<AirportName>Dubai International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Dubai</CityName>
+			<CountryName>United Arab Emirates</CountryName>
+			<RegionName>United Arab Emirates</RegionName>
+			<ICAOCode>OMDB</ICAOCode>
+			<IATACode>DXB</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>4351</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>4447</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>300320</UniqueXMLID>
+			<AirportName>Al Maktoum International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Jebel Ali</CityName>
+			<CountryName>United Arab Emirates</CountryName>
+			<RegionName>United Arab Emirates</RegionName>
+			<ICAOCode>OMDW</ICAOCode>
+			<IATACode>DWC</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>4500</Length>
+					<SurfaceType>Asphalt</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1838</Length>
+					<SurfaceType>asphalt</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5237</UniqueXMLID>
+			<AirportName>Fujairah International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>United Arab Emirates</CountryName>
+			<RegionName>United Arab Emirates</RegionName>
+			<ICAOCode>OMFJ</ICAOCode>
+			<IATACode>FJR</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3750</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5238</UniqueXMLID>
+			<AirportName>Ras Al Khaimah International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Ras Al Khaimah</CityName>
+			<CountryName>United Arab Emirates</CountryName>
+			<RegionName>United Arab Emirates</RegionName>
+			<ICAOCode>OMRK</ICAOCode>
+			<IATACode>RKT</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3760</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5239</UniqueXMLID>
+			<AirportName>Sharjah International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Sharjah</CityName>
+			<CountryName>United Arab Emirates</CountryName>
+			<RegionName>United Arab Emirates</RegionName>
+			<ICAOCode>OMSJ</ICAOCode>
+			<IATACode>SHJ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>4060</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>United Arab Emirates</RegionName>
+</RegionData>

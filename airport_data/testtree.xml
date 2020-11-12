@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>xml</UniqueXMLID>
+			<AirportName>name</AirportName>
+			<AirportLevel>lev</AirportLevel>
+			<CityName>city</CityName>
+			<CountryName>coun</CountryName>
+			<RegionName>reg</RegionName>
+			<ICAOCode>icao</ICAOCode>
+			<IATACode>iata</IATACode>
+			<Population>8000</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>2</HangarNumbers>
+			<BuildingNumbers>3</BuildingNumbers>
+			<BaseOrigin>4</BaseOrigin>
+			<WealthRating>5</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3</Length>
+					<SurfaceType>Grass</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>xml2</UniqueXMLID>
+			<AirportName>name2</AirportName>
+			<AirportLevel>lev</AirportLevel>
+			<CityName>city</CityName>
+			<CountryName>coun</CountryName>
+			<RegionName>reg</RegionName>
+			<ICAOCode>icao</ICAOCode>
+			<IATACode>iata</IATACode>
+			<Population>8000</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>2</HangarNumbers>
+			<BuildingNumbers>3</BuildingNumbers>
+			<BaseOrigin>4</BaseOrigin>
+			<WealthRating>5</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>5</Length>
+					<SurfaceType>Asphalt</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Some new region</RegionName>
+</RegionData>

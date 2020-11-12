@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>2447</UniqueXMLID>
+			<AirportName>Isle of Man Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Castletown</CityName>
+			<CountryName>Isle of Man</CountryName>
+			<RegionName>Isle of Man</RegionName>
+			<ICAOCode>EGNS</ICAOCode>
+			<IATACode>IOM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1199</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1753</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>903</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Isle of Man</RegionName>
+</RegionData>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4974</UniqueXMLID>
+			<AirportName>Niue International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Alofi</CityName>
+			<CountryName>Niue</CountryName>
+			<RegionName>Niue</RegionName>
+			<ICAOCode>NIUE</ICAOCode>
+			<IATACode>IUE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2335</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Niue</RegionName>
+</RegionData>

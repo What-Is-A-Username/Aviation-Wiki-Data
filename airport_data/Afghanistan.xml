@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>5069</UniqueXMLID>
+			<AirportName>Herat Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Afghanistan</CountryName>
+			<RegionName>Afghanistan</RegionName>
+			<ICAOCode>OAHR</ICAOCode>
+			<IATACode>HEA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3014</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5072</UniqueXMLID>
+			<AirportName>Hamid Karzai International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kabul</CityName>
+			<CountryName>Afghanistan</CountryName>
+			<RegionName>Afghanistan</RegionName>
+			<ICAOCode>OAKB</ICAOCode>
+			<IATACode>KBL</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3500</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5075</UniqueXMLID>
+			<AirportName>Mazar I Sharif Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Afghanistan</CountryName>
+			<RegionName>Afghanistan</RegionName>
+			<ICAOCode>OAMS</ICAOCode>
+			<IATACode>MZR</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3181</Length>
+					<SurfaceType>CONCRETE AND ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Afghanistan</RegionName>
+</RegionData>

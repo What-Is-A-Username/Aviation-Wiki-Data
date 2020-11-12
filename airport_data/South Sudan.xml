@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>3247</UniqueXMLID>
+			<AirportName>Juba International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Juba</CityName>
+			<CountryName>South Sudan</CountryName>
+			<RegionName>South Sudan</RegionName>
+			<ICAOCode>HSSJ</ICAOCode>
+			<IATACode>JUB</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2400</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3248</UniqueXMLID>
+			<AirportName>Malakal Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Malakal</CityName>
+			<CountryName>South Sudan</CountryName>
+			<RegionName>South Sudan</RegionName>
+			<ICAOCode>HSSM</ICAOCode>
+			<IATACode>MAK</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>30553</UniqueXMLID>
+			<AirportName>Wau Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Wau</CityName>
+			<CountryName>South Sudan</CountryName>
+			<RegionName>South Sudan</RegionName>
+			<ICAOCode>HSWW</ICAOCode>
+			<IATACode>WUU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2330</Length>
+					<SurfaceType>UNK</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>South Sudan</RegionName>
+</RegionData>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>5488</UniqueXMLID>
+			<AirportName>Marshall Islands International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Majuro Atoll</CityName>
+			<CountryName>Marshall Islands</CountryName>
+			<RegionName>Marshall Islands</RegionName>
+			<ICAOCode>PKMJ</ICAOCode>
+			<IATACode>MAJ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2407</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5490</UniqueXMLID>
+			<AirportName>Bucholz Army Air Field</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kwajalein</CityName>
+			<CountryName>Marshall Islands</CountryName>
+			<RegionName>Marshall Islands</RegionName>
+			<ICAOCode>PKWA</ICAOCode>
+			<IATACode>KWA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2032</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Marshall Islands</RegionName>
+</RegionData>

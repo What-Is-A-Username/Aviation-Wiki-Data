@@ -1,0 +1,1288 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>2385</UniqueXMLID>
+			<AirportName>Belfast International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Belfast</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGAA</ICAOCode>
+			<IATACode>BFS</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2780</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1891</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2387</UniqueXMLID>
+			<AirportName>George Best Belfast City Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Belfast</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGAC</ICAOCode>
+			<IATACode>BHD</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1829</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2388</UniqueXMLID>
+			<AirportName>City of Derry Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Derry</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGAE</ICAOCode>
+			<IATACode>LDY</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1205</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1969</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2389</UniqueXMLID>
+			<AirportName>Birmingham International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Birmingham</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGBB</ICAOCode>
+			<IATACode>BHX</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3052</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2393</UniqueXMLID>
+			<AirportName>Nottingham Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Nottingham</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGBN</ICAOCode>
+			<IATACode>NQT</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>821</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1050</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2398</UniqueXMLID>
+			<AirportName>Manchester Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Manchester</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGCC</ICAOCode>
+			<IATACode>MAN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3048</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3050</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2401</UniqueXMLID>
+			<AirportName>Robin Hood Doncaster Sheffield Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Doncaster</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGCN</ICAOCode>
+			<IATACode>DSA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2894</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2411</UniqueXMLID>
+			<AirportName>Campbeltown Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Campbeltown</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGEC</ICAOCode>
+			<IATACode>CAL</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1750</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>29126</UniqueXMLID>
+			<AirportName>Eday Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Eday</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGED</ICAOCode>
+			<IATACode>EOI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>527</Length>
+					<SurfaceType>Graded Hardcore</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>578</Length>
+					<SurfaceType>Grass</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>29127</UniqueXMLID>
+			<AirportName>Fair Isle Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Fair Isle</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGEF</ICAOCode>
+			<IATACode>FIE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>537</Length>
+					<SurfaceType>Gravel</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2415</UniqueXMLID>
+			<AirportName>Cardiff International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Cardiff</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGFF</ICAOCode>
+			<IATACode>CWL</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2354</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2417</UniqueXMLID>
+			<AirportName>Bristol Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Bristol</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGGD</ICAOCode>
+			<IATACode>BRS</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2011</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2418</UniqueXMLID>
+			<AirportName>Liverpool John Lennon Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Liverpool</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGGP</ICAOCode>
+			<IATACode>LPL</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2285</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2419</UniqueXMLID>
+			<AirportName>London Luton Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>London</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGGW</ICAOCode>
+			<IATACode>LTN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2162</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>29139</UniqueXMLID>
+			<AirportName>Land's End Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Land's End</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGHC</ICAOCode>
+			<IATACode>LEQ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>604</Length>
+					<SurfaceType>Grass</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>695</Length>
+					<SurfaceType>Grass</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>479</Length>
+					<SurfaceType>Grass</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>792</Length>
+					<SurfaceType>Grass</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>29140</UniqueXMLID>
+			<AirportName>St. Mary's Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>St. Mary's</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGHE</ICAOCode>
+			<IATACode>ISC</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>523</Length>
+					<SurfaceType>Grass/Asphalt</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>695</Length>
+					<SurfaceType>asphalt</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>400</Length>
+					<SurfaceType>Grass</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2421</UniqueXMLID>
+			<AirportName>Bournemouth Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Bournemouth</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGHH</ICAOCode>
+			<IATACode>BOH</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2271</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2422</UniqueXMLID>
+			<AirportName>Southampton Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Southampton</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGHI</ICAOCode>
+			<IATACode>SOU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1723</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2404</UniqueXMLID>
+			<AirportName>Newquay Cornwall Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Newquay</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGHQ</ICAOCode>
+			<IATACode>NQY</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2745</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2429</UniqueXMLID>
+			<AirportName>London Gatwick Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>London</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGKK</ICAOCode>
+			<IATACode>LGW</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2565</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3316</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2430</UniqueXMLID>
+			<AirportName>London City Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>London</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGLC</ICAOCode>
+			<IATACode>LCY</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1508</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2434</UniqueXMLID>
+			<AirportName>London Heathrow Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>London</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGLL</ICAOCode>
+			<IATACode>LHR</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3901</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3658</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2435</UniqueXMLID>
+			<AirportName>Southend Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Southend</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGMC</ICAOCode>
+			<IATACode>SEN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1856</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2436</UniqueXMLID>
+			<AirportName>Lydd Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Lydd, Ashford</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGMD</ICAOCode>
+			<IATACode>LYX</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1505</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>690</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2441</UniqueXMLID>
+			<AirportName>Blackpool International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Blackpool</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGNH</ICAOCode>
+			<IATACode>BLK</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>799</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1869</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>998</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2442</UniqueXMLID>
+			<AirportName>Humberside Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Grimsby</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGNJ</ICAOCode>
+			<IATACode>HUY</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2196</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1054</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2444</UniqueXMLID>
+			<AirportName>Leeds Bradford Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Leeds</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGNM</ICAOCode>
+			<IATACode>LBA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2250</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2446</UniqueXMLID>
+			<AirportName>Hawarden Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Hawarden</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGNR</ICAOCode>
+			<IATACode>CEG</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2043</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2448</UniqueXMLID>
+			<AirportName>Newcastle Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Newcastle</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGNT</ICAOCode>
+			<IATACode>NCL</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2329</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2449</UniqueXMLID>
+			<AirportName>Durham Tees Valley Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Durham</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGNV</ICAOCode>
+			<IATACode>MME</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2291</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2450</UniqueXMLID>
+			<AirportName>East Midlands Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Nottingham</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGNX</ICAOCode>
+			<IATACode>EMA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2893</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2454</UniqueXMLID>
+			<AirportName>Anglesey Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Angelsey</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGOV</ICAOCode>
+			<IATACode>VLY</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1639</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>671</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>2290</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2456</UniqueXMLID>
+			<AirportName>Kirkwall Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Orkney Islands</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGPA</ICAOCode>
+			<IATACode>KOI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1183</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1428</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>680</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2457</UniqueXMLID>
+			<AirportName>Sumburgh Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Lerwick</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGPB</ICAOCode>
+			<IATACode>LSI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>550</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1500</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1426</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2458</UniqueXMLID>
+			<AirportName>Wick Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Wick</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGPC</ICAOCode>
+			<IATACode>WIC</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1036</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1825</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2459</UniqueXMLID>
+			<AirportName>Aberdeen Dyce Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Aberdeen</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGPD</ICAOCode>
+			<IATACode>ABZ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>577</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>660</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1953</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>260</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2460</UniqueXMLID>
+			<AirportName>Inverness Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Inverness</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGPE</ICAOCode>
+			<IATACode>INV</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1887</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>700</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2461</UniqueXMLID>
+			<AirportName>Glasgow International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Glasgow</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGPF</ICAOCode>
+			<IATACode>GLA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2665</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1104</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2462</UniqueXMLID>
+			<AirportName>Edinburgh Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Edinburgh</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGPH</ICAOCode>
+			<IATACode>EDI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2556</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>799</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1747</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2463</UniqueXMLID>
+			<AirportName>Islay Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Port Ellen</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGPI</ICAOCode>
+			<IATACode>ILY</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>635</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1545</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2464</UniqueXMLID>
+			<AirportName>Glasgow Prestwick Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Glasgow</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGPK</ICAOCode>
+			<IATACode>PIK</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1905</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>2986</Length>
+					<SurfaceType>PEM</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2465</UniqueXMLID>
+			<AirportName>Benbecula Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Balivanich</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGPL</ICAOCode>
+			<IATACode>BEB</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1836</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1220</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2467</UniqueXMLID>
+			<AirportName>Dundee Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Dundee</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGPN</ICAOCode>
+			<IATACode>DND</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1400</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2468</UniqueXMLID>
+			<AirportName>Stornoway Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Stornoway</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGPO</ICAOCode>
+			<IATACode>SYY</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>2200</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>29173</UniqueXMLID>
+			<AirportName>Barra Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Eoligarry</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGPR</ICAOCode>
+			<IATACode>BRR</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>799</Length>
+					<SurfaceType>SAND, TIDAL</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>680</Length>
+					<SurfaceType>SAND, TIDAL</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>846</Length>
+					<SurfaceType>SAND, TIDAL</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2469</UniqueXMLID>
+			<AirportName>Tiree Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Balemartine</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGPU</ICAOCode>
+			<IATACode>TRE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1402</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>820</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>792</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2475</UniqueXMLID>
+			<AirportName>Norwich International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Norwich</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGSH</ICAOCode>
+			<IATACode>NWI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1266</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1841</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2476</UniqueXMLID>
+			<AirportName>London Stansted Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>London</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGSS</ICAOCode>
+			<IATACode>STN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3049</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2481</UniqueXMLID>
+			<AirportName>Exeter International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Exeter</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGTE</ICAOCode>
+			<IATACode>EXT</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2083</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1339</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2493</UniqueXMLID>
+			<AirportName>RAF Brize Norton</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Brize Norton</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGVN</ICAOCode>
+			<IATACode>BZZ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3050</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>35156</UniqueXMLID>
+			<AirportName>Outer Skerries Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Grunay Island</CityName>
+			<CountryName>United Kingdom</CountryName>
+			<RegionName>United Kingdom</RegionName>
+			<ICAOCode>EGOU</ICAOCode>
+			<IATACode>OUK</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>364</Length>
+					<SurfaceType/>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>United Kingdom</RegionName>
+</RegionData>

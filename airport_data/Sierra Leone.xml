@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>30799</UniqueXMLID>
+			<AirportName>Sherbro International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Bonthe</CityName>
+			<CountryName>Sierra Leone</CountryName>
+			<RegionName>Sierra Leone</RegionName>
+			<ICAOCode>GFBN</ICAOCode>
+			<IATACode>BTE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways/>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>31728</UniqueXMLID>
+			<AirportName>Bo Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Bo</CityName>
+			<CountryName>Sierra Leone</CountryName>
+			<RegionName>Sierra Leone</RegionName>
+			<ICAOCode>GFBO</ICAOCode>
+			<IATACode>KBS</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways/>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>31741</UniqueXMLID>
+			<AirportName>Kenema Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kenema</CityName>
+			<CountryName>Sierra Leone</CountryName>
+			<RegionName>Sierra Leone</RegionName>
+			<ICAOCode>GFKE</ICAOCode>
+			<IATACode>KEN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways/>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3095</UniqueXMLID>
+			<AirportName>Lungi International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Freetown</CityName>
+			<CountryName>Sierra Leone</CountryName>
+			<RegionName>Sierra Leone</RegionName>
+			<ICAOCode>GFLL</ICAOCode>
+			<IATACode>FNA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3200</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>32689</UniqueXMLID>
+			<AirportName>Yengema Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Yengema</CityName>
+			<CountryName>Sierra Leone</CountryName>
+			<RegionName>Sierra Leone</RegionName>
+			<ICAOCode>GFYE</ICAOCode>
+			<IATACode>WYE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways/>
+		</Airport>
+	</Airports>
+	<RegionName>Sierra Leone</RegionName>
+</RegionData>

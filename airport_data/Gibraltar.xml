@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4574</UniqueXMLID>
+			<AirportName>Gibraltar Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Gibraltar</CityName>
+			<CountryName>Gibraltar</CountryName>
+			<RegionName>Gibraltar</RegionName>
+			<ICAOCode>LXGB</ICAOCode>
+			<IATACode>GIB</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1829</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Gibraltar</RegionName>
+</RegionData>

@@ -1,0 +1,270 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4795</UniqueXMLID>
+			<AirportName>Aerotortuguero Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Roxana</CityName>
+			<CountryName>Costa Rica</CountryName>
+			<RegionName>Costa Rica</RegionName>
+			<ICAOCode>MRAO</ICAOCode>
+			<IATACode>TTQ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>950</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4797</UniqueXMLID>
+			<AirportName>Barra del Colorado Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Pococi</CityName>
+			<CountryName>Costa Rica</CountryName>
+			<RegionName>Costa Rica</RegionName>
+			<ICAOCode>MRBC</ICAOCode>
+			<IATACode>BCL</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4798</UniqueXMLID>
+			<AirportName>Coto 47 Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Corredores</CityName>
+			<CountryName>Costa Rica</CountryName>
+			<RegionName>Costa Rica</RegionName>
+			<ICAOCode>MRCC</ICAOCode>
+			<IATACode>OTR</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4804</UniqueXMLID>
+			<AirportName>Golfito Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Golfito</CityName>
+			<CountryName>Costa Rica</CountryName>
+			<RegionName>Costa Rica</RegionName>
+			<ICAOCode>MRGF</ICAOCode>
+			<IATACode>GLF</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1400</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4806</UniqueXMLID>
+			<AirportName>Daniel Oduber Quiros International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Liberia</CityName>
+			<CountryName>Costa Rica</CountryName>
+			<RegionName>Costa Rica</RegionName>
+			<ICAOCode>MRLB</ICAOCode>
+			<IATACode>LIR</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2750</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4808</UniqueXMLID>
+			<AirportName>Limon International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Puerto Limon</CityName>
+			<CountryName>Costa Rica</CountryName>
+			<RegionName>Costa Rica</RegionName>
+			<ICAOCode>MRLM</ICAOCode>
+			<IATACode>LIO</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1800</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4809</UniqueXMLID>
+			<AirportName>Nosara Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Nicoya</CityName>
+			<CountryName>Costa Rica</CountryName>
+			<RegionName>Costa Rica</RegionName>
+			<ICAOCode>MRNS</ICAOCode>
+			<IATACode>NOB</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4810</UniqueXMLID>
+			<AirportName>Juan Santamaria International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>San Jose</CityName>
+			<CountryName>Costa Rica</CountryName>
+			<RegionName>Costa Rica</RegionName>
+			<ICAOCode>MROC</ICAOCode>
+			<IATACode>SJO</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3012</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>32160</UniqueXMLID>
+			<AirportName>Puerto Jimenez Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Puerto Jimenez</CityName>
+			<CountryName>Costa Rica</CountryName>
+			<RegionName>Costa Rica</RegionName>
+			<ICAOCode>MRPJ</ICAOCode>
+			<IATACode>PJM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>825</Length>
+					<SurfaceType>UNK</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4812</UniqueXMLID>
+			<AirportName>Palmar Sur Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Palmar Sur</CityName>
+			<CountryName>Costa Rica</CountryName>
+			<RegionName>Costa Rica</RegionName>
+			<ICAOCode>MRPM</ICAOCode>
+			<IATACode>PMZ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1400</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4813</UniqueXMLID>
+			<AirportName>Tobias Bolanos International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>San Jose</CityName>
+			<CountryName>Costa Rica</CountryName>
+			<RegionName>Costa Rica</RegionName>
+			<ICAOCode>MRPV</ICAOCode>
+			<IATACode>SYQ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1600</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4814</UniqueXMLID>
+			<AirportName>Quepos Managua Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Quepos</CityName>
+			<CountryName>Costa Rica</CountryName>
+			<RegionName>Costa Rica</RegionName>
+			<ICAOCode>MRQP</ICAOCode>
+			<IATACode>XQP</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1100</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Costa Rica</RegionName>
+</RegionData>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>6247</UniqueXMLID>
+			<AirportName>Carrasco International /General C L Berisso Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Montevideo</CityName>
+			<CountryName>Uruguay</CountryName>
+			<RegionName>Uruguay</RegionName>
+			<ICAOCode>SUMU</ICAOCode>
+			<IATACode>MVD</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2250</Length>
+					<SurfaceType>PEM</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3200</Length>
+					<SurfaceType>PEM</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1700</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Uruguay</RegionName>
+</RegionData>

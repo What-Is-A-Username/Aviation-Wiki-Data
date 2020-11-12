@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>3202</UniqueXMLID>
+			<AirportName>Asmara International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Asmara</CityName>
+			<CountryName>Eritrea</CountryName>
+			<RegionName>Eritrea</RegionName>
+			<ICAOCode>HHAS</ICAOCode>
+			<IATACode>ASM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1814</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3203</UniqueXMLID>
+			<AirportName>Massawa International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Massawa</CityName>
+			<CountryName>Eritrea</CountryName>
+			<RegionName>Eritrea</RegionName>
+			<ICAOCode>HHMS</ICAOCode>
+			<IATACode>MSW</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3470</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3204</UniqueXMLID>
+			<AirportName>Assab International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Asab</CityName>
+			<CountryName>Eritrea</CountryName>
+			<RegionName>Eritrea</RegionName>
+			<ICAOCode>HHSB</ICAOCode>
+			<IATACode>ASA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3515</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Eritrea</RegionName>
+</RegionData>

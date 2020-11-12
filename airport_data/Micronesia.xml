@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>5499</UniqueXMLID>
+			<AirportName>Chuuk International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Weno Island</CityName>
+			<CountryName>Micronesia</CountryName>
+			<RegionName>Micronesia</RegionName>
+			<ICAOCode>PTKK</ICAOCode>
+			<IATACode>TKK</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1831</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5500</UniqueXMLID>
+			<AirportName>Pohnpei International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Pohnpei Island</CityName>
+			<CountryName>Micronesia</CountryName>
+			<RegionName>Micronesia</RegionName>
+			<ICAOCode>PTPN</ICAOCode>
+			<IATACode>PNI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1829</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5502</UniqueXMLID>
+			<AirportName>Kosrae International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Okat</CityName>
+			<CountryName>Micronesia</CountryName>
+			<RegionName>Micronesia</RegionName>
+			<ICAOCode>PTSA</ICAOCode>
+			<IATACode>KSA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1753</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5503</UniqueXMLID>
+			<AirportName>Yap International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Yap Island</CityName>
+			<CountryName>Micronesia</CountryName>
+			<RegionName>Micronesia</RegionName>
+			<ICAOCode>PTYA</ICAOCode>
+			<IATACode>YAP</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1829</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Micronesia</RegionName>
+</RegionData>

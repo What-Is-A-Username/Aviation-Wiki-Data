@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4660</UniqueXMLID>
+			<AirportName>Goloson International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>La Ceiba</CityName>
+			<CountryName>Honduras</CountryName>
+			<RegionName>Honduras</RegionName>
+			<ICAOCode>MHLC</ICAOCode>
+			<IATACode>LCE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3010</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4661</UniqueXMLID>
+			<AirportName>Ramón Villeda Morales International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>San Pedro Sula</CityName>
+			<CountryName>Honduras</CountryName>
+			<RegionName>Honduras</RegionName>
+			<ICAOCode>MHLM</ICAOCode>
+			<IATACode>SAP</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2805</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4662</UniqueXMLID>
+			<AirportName>La Laguna Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Guanaja</CityName>
+			<CountryName>Honduras</CountryName>
+			<RegionName>Honduras</RegionName>
+			<ICAOCode>MHNJ</ICAOCode>
+			<IATACode>GJA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1216</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4663</UniqueXMLID>
+			<AirportName>Juan Manuel Galvez International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Roatan Island</CityName>
+			<CountryName>Honduras</CountryName>
+			<RegionName>Honduras</RegionName>
+			<ICAOCode>MHRO</ICAOCode>
+			<IATACode>RTB</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2240</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4666</UniqueXMLID>
+			<AirportName>Toncontín International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Tegucigalpa</CityName>
+			<CountryName>Honduras</CountryName>
+			<RegionName>Honduras</RegionName>
+			<ICAOCode>MHTG</ICAOCode>
+			<IATACode>TGU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1863</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Honduras</RegionName>
+</RegionData>

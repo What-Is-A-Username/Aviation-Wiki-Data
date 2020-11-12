@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>6361</UniqueXMLID>
+			<AirportName>Canefield Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Canefield</CityName>
+			<CountryName>Dominica</CountryName>
+			<RegionName>Dominica</RegionName>
+			<ICAOCode>TDCF</ICAOCode>
+			<IATACode>DCF</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>954</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>6362</UniqueXMLID>
+			<AirportName>Douglas-Charles Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Marigot</CityName>
+			<CountryName>Dominica</CountryName>
+			<RegionName>Dominica</RegionName>
+			<ICAOCode>TDPD</ICAOCode>
+			<IATACode>DOM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1456</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Dominica</RegionName>
+</RegionData>

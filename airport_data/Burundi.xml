@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>3170</UniqueXMLID>
+			<AirportName>Bujumbura International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Bujumbura</CityName>
+			<CountryName>Burundi</CountryName>
+			<RegionName>Burundi</RegionName>
+			<ICAOCode>HBBA</ICAOCode>
+			<IATACode>BJM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>0</Length>
+					<SurfaceType>UNK</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3600</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Burundi</RegionName>
+</RegionData>

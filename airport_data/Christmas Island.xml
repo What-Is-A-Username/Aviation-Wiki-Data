@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>27122</UniqueXMLID>
+			<AirportName>Christmas Island Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Christmas Island</CityName>
+			<CountryName>Christmas Island</CountryName>
+			<RegionName>Christmas Island</RegionName>
+			<ICAOCode>YPXM</ICAOCode>
+			<IATACode>XCH</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2103</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Christmas Island</RegionName>
+</RegionData>

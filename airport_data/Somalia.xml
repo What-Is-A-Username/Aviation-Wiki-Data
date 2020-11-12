@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>3171</UniqueXMLID>
+			<AirportName>Egal International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Hargeisa</CityName>
+			<CountryName>Somalia</CountryName>
+			<RegionName>Somalia</RegionName>
+			<ICAOCode>HCMH</ICAOCode>
+			<IATACode>HGA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3700</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3172</UniqueXMLID>
+			<AirportName>Berbera Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Berbera</CityName>
+			<CountryName>Somalia</CountryName>
+			<RegionName>Somalia</RegionName>
+			<ICAOCode>HCMI</ICAOCode>
+			<IATACode>BBO</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>4140</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>31899</UniqueXMLID>
+			<AirportName>Aden Adde International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Mogadishu</CityName>
+			<CountryName>Somalia</CountryName>
+			<RegionName>Somalia</RegionName>
+			<ICAOCode>HCMM</ICAOCode>
+			<IATACode>MGQ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3150</Length>
+					<SurfaceType>UNK</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Somalia</RegionName>
+</RegionData>

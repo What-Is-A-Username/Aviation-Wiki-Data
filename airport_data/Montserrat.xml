@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>43074</UniqueXMLID>
+			<AirportName>John A. Osborne Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Gerald's Park</CityName>
+			<CountryName>Montserrat</CountryName>
+			<RegionName>Montserrat</RegionName>
+			<ICAOCode>TRPG</ICAOCode>
+			<IATACode>MNI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>600</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Montserrat</RegionName>
+</RegionData>

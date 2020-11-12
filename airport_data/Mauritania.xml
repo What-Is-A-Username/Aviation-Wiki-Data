@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>323315</UniqueXMLID>
+			<AirportName>Nouakchott–Oumtounsy International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Nouakchott</CityName>
+			<CountryName>Mauritania</CountryName>
+			<RegionName>Mauritania</RegionName>
+			<ICAOCode>GQNO</ICAOCode>
+			<IATACode>NKC</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2400</Length>
+					<SurfaceType>concrete</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3400</Length>
+					<SurfaceType>concrete</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>3138</UniqueXMLID>
+			<AirportName>Nouadhibou International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Nouadhibou</CityName>
+			<CountryName>Mauritania</CountryName>
+			<RegionName>Mauritania</RegionName>
+			<ICAOCode>GQPP</ICAOCode>
+			<IATACode>NDB</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2427</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Mauritania</RegionName>
+</RegionData>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4386</UniqueXMLID>
+			<AirportName>Ljubljana Jože Pučnik Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Ljubljana</CityName>
+			<CountryName>Slovenia</CountryName>
+			<RegionName>Slovenia</RegionName>
+			<ICAOCode>LJLJ</ICAOCode>
+			<IATACode>LJU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3300</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4387</UniqueXMLID>
+			<AirportName>Maribor Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Slovenia</CountryName>
+			<RegionName>Slovenia</RegionName>
+			<ICAOCode>LJMB</ICAOCode>
+			<IATACode>MBX</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2500</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1200</Length>
+					<SurfaceType>GRS</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Slovenia</RegionName>
+</RegionData>

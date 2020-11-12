@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4572</UniqueXMLID>
+			<AirportName>Ohrid St. Paul the Apostle Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Ohrid</CityName>
+			<CountryName>North Macedonia</CountryName>
+			<RegionName>North Macedonia</RegionName>
+			<ICAOCode>LWOH</ICAOCode>
+			<IATACode>OHD</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2550</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4573</UniqueXMLID>
+			<AirportName>Skopje International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Skopje</CityName>
+			<CountryName>North Macedonia</CountryName>
+			<RegionName>North Macedonia</RegionName>
+			<ICAOCode>LWSK</ICAOCode>
+			<IATACode>SKP</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2950</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>North Macedonia</RegionName>
+</RegionData>

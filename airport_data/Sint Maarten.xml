@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>6406</UniqueXMLID>
+			<AirportName>Princess Juliana International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Saint Martin</CityName>
+			<CountryName>Sint Maarten</CountryName>
+			<RegionName>Sint Maarten</RegionName>
+			<ICAOCode>TNCM</ICAOCode>
+			<IATACode>SXM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2349</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>2180</Length>
+					<SurfaceType>ASPH-CONC</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Sint Maarten</RegionName>
+</RegionData>

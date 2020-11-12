@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>2512</UniqueXMLID>
+			<AirportName>Mount Pleasant Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Mount Pleasant</CityName>
+			<CountryName>Falkland Islands</CountryName>
+			<RegionName>Falkland Islands</RegionName>
+			<ICAOCode>EGYP</ICAOCode>
+			<IATACode>MPN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1525</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>2590</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>6087</UniqueXMLID>
+			<AirportName>Port Stanley Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Stanley</CityName>
+			<CountryName>Falkland Islands</CountryName>
+			<RegionName>Falkland Islands</RegionName>
+			<ICAOCode>SFAL</ICAOCode>
+			<IATACode>PSY</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>918</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>338</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Falkland Islands</RegionName>
+</RegionData>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>26881</UniqueXMLID>
+			<AirportName>Presidente Nicolau Lobato International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Dili</CityName>
+			<CountryName>Timor-Leste</CountryName>
+			<RegionName>Timor-Leste</RegionName>
+			<ICAOCode>WPDL</ICAOCode>
+			<IATACode>DIL</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1849</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Timor-Leste</RegionName>
+</RegionData>

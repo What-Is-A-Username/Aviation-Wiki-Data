@@ -1,0 +1,363 @@
+<?xml version="1.0" ?>
+<FleetData>
+	<AircraftModel>
+		<ModelName>Airbus A319-100</ModelName>
+		<NumberInFleet>9</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="8"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="30"/>
+				<SeatingClass ClassName="Economy Class" Number="90"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="8"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="114"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A320-200</ModelName>
+		<NumberInFleet>106</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="8"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="24"/>
+				<SeatingClass ClassName="Economy Class" Number="120"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="4"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="18"/>
+				<SeatingClass ClassName="Economy Class" Number="138"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="4"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="24"/>
+				<SeatingClass ClassName="Economy Class" Number="138"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="0"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="24"/>
+				<SeatingClass ClassName="Economy Class" Number="144"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A320neo</ModelName>
+		<NumberInFleet>35</NumberInFleet>
+		<Orders>65</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="4"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="24"/>
+				<SeatingClass ClassName="Economy Class" Number="138"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A321-200</ModelName>
+		<NumberInFleet>99</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="12"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="24"/>
+				<SeatingClass ClassName="Economy Class" Number="143"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="4"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="18"/>
+				<SeatingClass ClassName="Economy Class" Number="167"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="4"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="24"/>
+				<SeatingClass ClassName="Economy Class" Number="167"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A321neo</ModelName>
+		<NumberInFleet>34</NumberInFleet>
+		<Orders>15</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="4"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="24"/>
+				<SeatingClass ClassName="Economy Class" Number="167"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A330-200</ModelName>
+		<NumberInFleet>14</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="18"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="244"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="12"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="24"/>
+				<SeatingClass ClassName="Economy Class" Number="242"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A330-300</ModelName>
+		<NumberInFleet>30</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes>B-8870 painted in a special Cantonese Lychee livery.B-5940 painted in China International Import Expo livery.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="4"/>
+				<SeatingClass ClassName="Business Class" Number="24"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="48"/>
+				<SeatingClass ClassName="Economy Class" Number="208"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="30"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="253"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="28"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="258"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A350-900</ModelName>
+		<NumberInFleet>6</NumberInFleet>
+		<Orders>14</Orders>
+		<Notes>Deliveries from 2019 and until 2022.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="28"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="24"/>
+				<SeatingClass ClassName="Economy Class" Number="262"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A380-800</ModelName>
+		<NumberInFleet>5</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="8"/>
+				<SeatingClass ClassName="Business Class" Number="70"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="428"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 737-700</ModelName>
+		<NumberInFleet>26</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="8"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="24"/>
+				<SeatingClass ClassName="Economy Class" Number="88"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="4"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="18"/>
+				<SeatingClass ClassName="Economy Class" Number="106"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="4"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="24"/>
+				<SeatingClass ClassName="Economy Class" Number="106"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 737-800</ModelName>
+		<NumberInFleet>163</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes>B-6068 &amp; B-6069 painted in a special Guizhou livery.B-1520 painted in a special Nanhai Mona Lisa Tiles livery.B-1979 painted in a special Hometown Henan livery.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="8"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="27"/>
+				<SeatingClass ClassName="Economy Class" Number="127"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="8"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="24"/>
+				<SeatingClass ClassName="Economy Class" Number="129"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="8"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="24"/>
+				<SeatingClass ClassName="Economy Class" Number="132"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="4"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="24"/>
+				<SeatingClass ClassName="Economy Class" Number="150"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="4"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="18"/>
+				<SeatingClass ClassName="Economy Class" Number="147"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="4"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="18"/>
+				<SeatingClass ClassName="Economy Class" Number="150"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 737 MAX 8</ModelName>
+		<NumberInFleet>24</NumberInFleet>
+		<Orders>50</Orders>
+		<Notes>Deliveries from 2017.Order for 30 is still pending Chinese government and shareholder approval.Currently grounded indefintely.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="4"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="24"/>
+				<SeatingClass ClassName="Economy Class" Number="150"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="8"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="24"/>
+				<SeatingClass ClassName="Economy Class" Number="138"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 777-300ER</ModelName>
+		<NumberInFleet>15</NumberInFleet>
+		<Orders>1</Orders>
+		<Notes>Deliveries to 2020.Originally ordered 8, two converted to Boeing 777Fs in late February 2019.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="28"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="28"/>
+				<SeatingClass ClassName="Economy Class" Number="305"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 787-8</ModelName>
+		<NumberInFleet>10</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes>Dedicated Wings of Dream special livery applied to all Boeing 787 Dreamliner aircraft.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="18"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="248"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 787-9</ModelName>
+		<NumberInFleet>15</NumberInFleet>
+		<Orders>5</Orders>
+		<Notes>Deliveries to 2020.B-1168 painted in a special 787th Boeing 787 livery.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="28"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="28"/>
+				<SeatingClass ClassName="Economy Class" Number="220"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="28"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="269"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Comac C919</ModelName>
+		<NumberInFleet>0</NumberInFleet>
+		<Orders>20</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="0"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="0"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Comac ARJ21-700</ModelName>
+		<NumberInFleet>2</NumberInFleet>
+		<Orders>33</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="0"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="90"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Embraer 190</ModelName>
+		<NumberInFleet>5</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes>Leased from CLC.Phasing out since 2018 and to be transferred to other airlines. To be replaced by Boeing 737-800, Boeing 737 MAX 8 and Airbus A320neo.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="6"/>
+				<SeatingClass ClassName="Premium Economy Class" Number="16"/>
+				<SeatingClass ClassName="Economy Class" Number="76"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+</FleetData>

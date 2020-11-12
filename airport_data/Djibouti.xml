@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>3174</UniqueXMLID>
+			<AirportName>Djibouti-Ambouli Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Djibouti City</CityName>
+			<CountryName>Djibouti</CountryName>
+			<RegionName>Djibouti</RegionName>
+			<ICAOCode>HDAM</ICAOCode>
+			<IATACode>JIB</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3150</Length>
+					<SurfaceType>PEM</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Djibouti</RegionName>
+</RegionData>

@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>26463</UniqueXMLID>
+			<AirportName>Bandaranaike International Colombo Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Colombo</CityName>
+			<CountryName>Sri Lanka</CountryName>
+			<RegionName>Sri Lanka</RegionName>
+			<ICAOCode>VCBI</ICAOCode>
+			<IATACode>CMB</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3350</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>26465</UniqueXMLID>
+			<AirportName>Batticaloa Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Batticaloa</CityName>
+			<CountryName>Sri Lanka</CountryName>
+			<RegionName>Sri Lanka</RegionName>
+			<ICAOCode>VCCB</ICAOCode>
+			<IATACode>BTC</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1095</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>26466</UniqueXMLID>
+			<AirportName>Colombo Ratmalana Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Colombo</CityName>
+			<CountryName>Sri Lanka</CountryName>
+			<RegionName>Sri Lanka</RegionName>
+			<ICAOCode>VCCC</ICAOCode>
+			<IATACode>RML</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1833</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>26468</UniqueXMLID>
+			<AirportName>Kankesanturai Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Jaffna</CityName>
+			<CountryName>Sri Lanka</CountryName>
+			<RegionName>Sri Lanka</RegionName>
+			<ICAOCode>VCCJ</ICAOCode>
+			<IATACode>JAF</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2286</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>26469</UniqueXMLID>
+			<AirportName>Koggala Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Galle</CityName>
+			<CountryName>Sri Lanka</CountryName>
+			<RegionName>Sri Lanka</RegionName>
+			<ICAOCode>VCCK</ICAOCode>
+			<IATACode>KCT</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>958</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>26471</UniqueXMLID>
+			<AirportName>China Bay Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Trincomalee</CityName>
+			<CountryName>Sri Lanka</CountryName>
+			<RegionName>Sri Lanka</RegionName>
+			<ICAOCode>VCCT</ICAOCode>
+			<IATACode>TRR</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2393</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>309579</UniqueXMLID>
+			<AirportName>Mattala Rajapaksa International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Sri Lanka</CountryName>
+			<RegionName>Sri Lanka</RegionName>
+			<ICAOCode>VCRI</ICAOCode>
+			<IATACode>HRI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3500</Length>
+					<SurfaceType>Asphalt</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Sri Lanka</RegionName>
+</RegionData>

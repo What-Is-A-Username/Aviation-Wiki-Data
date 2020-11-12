@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>322383</UniqueXMLID>
+			<AirportName>Argyle International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kingstown</CityName>
+			<CountryName>Saint Vincent and the Grenadines</CountryName>
+			<RegionName>Saint Vincent and the Grenadines</RegionName>
+			<ICAOCode>TVSA</ICAOCode>
+			<IATACode>SVD</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2743</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>6412</UniqueXMLID>
+			<AirportName>J F Mitchell Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Bequia</CityName>
+			<CountryName>Saint Vincent and the Grenadines</CountryName>
+			<RegionName>Saint Vincent and the Grenadines</RegionName>
+			<ICAOCode>TVSB</ICAOCode>
+			<IATACode>BQU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1100</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>6413</UniqueXMLID>
+			<AirportName>Canouan Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Canouan</CityName>
+			<CountryName>Saint Vincent and the Grenadines</CountryName>
+			<RegionName>Saint Vincent and the Grenadines</RegionName>
+			<ICAOCode>TVSC</ICAOCode>
+			<IATACode>CIW</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1798</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>6414</UniqueXMLID>
+			<AirportName>Mustique Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Mustique Island</CityName>
+			<CountryName>Saint Vincent and the Grenadines</CountryName>
+			<RegionName>Saint Vincent and the Grenadines</RegionName>
+			<ICAOCode>TVSM</ICAOCode>
+			<IATACode>MQS</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>992</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>32542</UniqueXMLID>
+			<AirportName>Union Island International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Union Island</CityName>
+			<CountryName>Saint Vincent and the Grenadines</CountryName>
+			<RegionName>Saint Vincent and the Grenadines</RegionName>
+			<ICAOCode>TVSU</ICAOCode>
+			<IATACode>UNI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways/>
+		</Airport>
+	</Airports>
+	<RegionName>Saint Vincent and the Grenadines</RegionName>
+</RegionData>

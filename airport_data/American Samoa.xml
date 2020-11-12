@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4977</UniqueXMLID>
+			<AirportName>Fitiuta Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Fitiuta Village</CityName>
+			<CountryName>American Samoa</CountryName>
+			<RegionName>American Samoa</RegionName>
+			<ICAOCode>NSFQ</ICAOCode>
+			<IATACode>FTI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>972</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4978</UniqueXMLID>
+			<AirportName>Pago Pago International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Pago Pago</CityName>
+			<CountryName>American Samoa</CountryName>
+			<RegionName>American Samoa</RegionName>
+			<ICAOCode>NSTU</ICAOCode>
+			<IATACode>PPG</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3048</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1158</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>American Samoa</RegionName>
+</RegionData>

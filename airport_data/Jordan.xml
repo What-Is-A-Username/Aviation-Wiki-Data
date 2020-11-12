@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>5212</UniqueXMLID>
+			<AirportName>Queen Alia International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Amman</CityName>
+			<CountryName>Jordan</CountryName>
+			<RegionName>Jordan</RegionName>
+			<ICAOCode>OJAI</ICAOCode>
+			<IATACode>AMM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3660</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3660</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5213</UniqueXMLID>
+			<AirportName>Amman-Marka International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Amman</CityName>
+			<CountryName>Jordan</CountryName>
+			<RegionName>Jordan</RegionName>
+			<ICAOCode>OJAM</ICAOCode>
+			<IATACode>ADJ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3275</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5214</UniqueXMLID>
+			<AirportName>Aqaba King Hussein International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Aqaba</CityName>
+			<CountryName>Jordan</CountryName>
+			<RegionName>Jordan</RegionName>
+			<ICAOCode>OJAQ</ICAOCode>
+			<IATACode>AQJ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3004</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Jordan</RegionName>
+</RegionData>

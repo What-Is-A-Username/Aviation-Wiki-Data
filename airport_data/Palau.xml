@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>5501</UniqueXMLID>
+			<AirportName>Babelthuap Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Babelthuap Island</CityName>
+			<CountryName>Palau</CountryName>
+			<RegionName>Palau</RegionName>
+			<ICAOCode>PTRO</ICAOCode>
+			<IATACode>ROR</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2195</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Palau</RegionName>
+</RegionData>

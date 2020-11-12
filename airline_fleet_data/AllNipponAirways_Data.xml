@@ -1,0 +1,295 @@
+<?xml version="1.0" ?>
+<FleetData>
+	<AircraftModel>
+		<ModelName>Airbus A320neo</ModelName>
+		<NumberInFleet>11</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="8"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="138"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A321-200</ModelName>
+		<NumberInFleet>4</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="8"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="186"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A321neo</ModelName>
+		<NumberInFleet>12</NumberInFleet>
+		<Orders>14</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="8"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="186"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Airbus A380-800</ModelName>
+		<NumberInFleet>3</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes>Last delivery in October 2020</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="8"/>
+				<SeatingClass ClassName="Business Class" Number="56"/>
+				<SeatingClass ClassName="Premium Economy" Number="73"/>
+				<SeatingClass ClassName="Economy Class" Number="383"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 737-700</ModelName>
+		<NumberInFleet>8</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes/>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="8"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="112"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 737-800</ModelName>
+		<NumberInFleet>39</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes>JA51AN painted in the Star Alliance livery.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="8"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="158"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 737 MAX 8</ModelName>
+		<NumberInFleet>0</NumberInFleet>
+		<Orders>20</Orders>
+		<Notes>Order with 10 purchase options.Deliveries to start in April 2021.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="0"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="0"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 767-300ER</ModelName>
+		<NumberInFleet>23</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes>JA614A painted in the Star Alliance livery.JA604A painted in a Star Wars R2-D2 &amp; BB-8 special livery.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="10"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="260"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="35"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="167"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 777-200</ModelName>
+		<NumberInFleet>7</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes>Two (JA711A, JA712A) painted in the Star Alliance livery.Some aircraft to be retired, specific number unknown.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="28"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="364"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 777-200ER</ModelName>
+		<NumberInFleet>12</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes>JA743A painted in a Star Wars C-3PO livery.JA741A painted in Tokyo 2020 livery.Some aircraft to be retired, specific number unknown.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="21"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="384"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 777-300</ModelName>
+		<NumberInFleet>7</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes>2 aircraft to be retired.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="21"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="493"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 777-300ER</ModelName>
+		<NumberInFleet>28</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes>JA731A painted in the Star Alliance livery.JA789A painted in a Star Wars BB-8 special livery.13 aircraft to be retired.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="8"/>
+				<SeatingClass ClassName="Business Class" Number="52"/>
+				<SeatingClass ClassName="Premium Economy" Number="24"/>
+				<SeatingClass ClassName="Economy Class" Number="166"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="8"/>
+				<SeatingClass ClassName="Business Class" Number="52"/>
+				<SeatingClass ClassName="Premium Economy" Number="24"/>
+				<SeatingClass ClassName="Economy Class" Number="180"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="8"/>
+				<SeatingClass ClassName="Business Class" Number="68"/>
+				<SeatingClass ClassName="Premium Economy" Number="24"/>
+				<SeatingClass ClassName="Economy Class" Number="112"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="8"/>
+				<SeatingClass ClassName="Business Class" Number="64"/>
+				<SeatingClass ClassName="Premium Economy" Number="24"/>
+				<SeatingClass ClassName="Economy Class" Number="116"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 777-9</ModelName>
+		<NumberInFleet>0</NumberInFleet>
+		<Orders>20</Orders>
+		<Notes>Deliveries will start in 2021.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="0"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="0"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 787-8</ModelName>
+		<NumberInFleet>36</NumberInFleet>
+		<Orders>0</Orders>
+		<Notes>Launch customer</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="12"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="323"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="42"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="198"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="32"/>
+				<SeatingClass ClassName="Premium Economy" Number="14"/>
+				<SeatingClass ClassName="Economy Class" Number="138"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="46"/>
+				<SeatingClass ClassName="Premium Economy" Number="21"/>
+				<SeatingClass ClassName="Economy Class" Number="102"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 787-9</ModelName>
+		<NumberInFleet>36</NumberInFleet>
+		<Orders>12</Orders>
+		<Notes>Deliveries until 2020.JA873A painted in a Star Wars R2-D2 special livery.JA899A painted in the Star Alliance livery.Extra order in 2020 with 4 firm and 5 option.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="18"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="277"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="40"/>
+				<SeatingClass ClassName="Premium Economy" Number="14"/>
+				<SeatingClass ClassName="Economy Class" Number="192"/>
+			</SeatingConfiguration>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="48"/>
+				<SeatingClass ClassName="Premium Economy" Number="21"/>
+				<SeatingClass ClassName="Economy Class" Number="146"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Boeing 787-10</ModelName>
+		<NumberInFleet>2</NumberInFleet>
+		<Orders>12</Orders>
+		<Notes>Order with 7 options.Extra order in 2020.</Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="38"/>
+				<SeatingClass ClassName="Premium Economy" Number="21"/>
+				<SeatingClass ClassName="Economy Class" Number="235"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+	<AircraftModel>
+		<ModelName>Mitsubishi SpaceJet M90</ModelName>
+		<NumberInFleet>0</NumberInFleet>
+		<Orders>15</Orders>
+		<Notes>Order with 10 purchase options.Deliveries to start late 2021-early 2022 </Notes>
+		<Configurations>
+			<SeatingConfiguration>
+				<SeatingClass ClassName="First Class" Number="0"/>
+				<SeatingClass ClassName="Business Class" Number="0"/>
+				<SeatingClass ClassName="Premium Economy" Number="0"/>
+				<SeatingClass ClassName="Economy Class" Number="76"/>
+			</SeatingConfiguration>
+		</Configurations>
+	</AircraftModel>
+</FleetData>

@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4411</UniqueXMLID>
+			<AirportName>Ben Gurion International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Tel Aviv</CityName>
+			<CountryName>Israel</CountryName>
+			<RegionName>Israel</RegionName>
+			<ICAOCode>LLBG</ICAOCode>
+			<IATACode>TLV</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2772</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>4062</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3112</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>330388</UniqueXMLID>
+			<AirportName>Ramon Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Eilat</CityName>
+			<CountryName>Israel</CountryName>
+			<RegionName>Israel</RegionName>
+			<ICAOCode>LLER</ICAOCode>
+			<IATACode>ETM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3600</Length>
+					<SurfaceType/>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4417</UniqueXMLID>
+			<AirportName>Haifa International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Haifa</CityName>
+			<CountryName>Israel</CountryName>
+			<RegionName>Israel</RegionName>
+			<ICAOCode>LLHA</ICAOCode>
+			<IATACode>HFA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1318</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4419</UniqueXMLID>
+			<AirportName>Ben Ya'akov Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Rosh Pina</CityName>
+			<CountryName>Israel</CountryName>
+			<RegionName>Israel</RegionName>
+			<ICAOCode>LLIB</ICAOCode>
+			<IATACode>RPN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>972</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1114</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Israel</RegionName>
+</RegionData>

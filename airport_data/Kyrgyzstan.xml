@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>6425</UniqueXMLID>
+			<AirportName>Issyk-Kul International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Tamchy</CityName>
+			<CountryName>Kyrgyzstan</CountryName>
+			<RegionName>Kyrgyzstan</RegionName>
+			<ICAOCode>UCFL</ICAOCode>
+			<IATACode>IKU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2000</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>6426</UniqueXMLID>
+			<AirportName>Manas International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Bishkek</CityName>
+			<CountryName>Kyrgyzstan</CountryName>
+			<RegionName>Kyrgyzstan</RegionName>
+			<ICAOCode>UCFM</ICAOCode>
+			<IATACode>FRU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>4200</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>6427</UniqueXMLID>
+			<AirportName>Osh Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Osh</CityName>
+			<CountryName>Kyrgyzstan</CountryName>
+			<RegionName>Kyrgyzstan</RegionName>
+			<ICAOCode>UCFO</ICAOCode>
+			<IATACode>OSS</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2614</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Kyrgyzstan</RegionName>
+</RegionData>

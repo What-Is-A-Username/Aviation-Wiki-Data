@@ -1,0 +1,372 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>302303</UniqueXMLID>
+			<AirportName>Muan International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Piseo-ri (Muan)</CityName>
+			<CountryName>South Korea</CountryName>
+			<RegionName>South Korea</RegionName>
+			<ICAOCode>RKJB</ICAOCode>
+			<IATACode>MWX</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2800</Length>
+					<SurfaceType>concrete</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5630</UniqueXMLID>
+			<AirportName>Gwangju Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Gwangju</CityName>
+			<CountryName>South Korea</CountryName>
+			<RegionName>South Korea</RegionName>
+			<ICAOCode>RKJJ</ICAOCode>
+			<IATACode>KWJ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2835</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>2835</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5631</UniqueXMLID>
+			<AirportName>Kunsan Air Base</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Kunsan</CityName>
+			<CountryName>South Korea</CountryName>
+			<RegionName>South Korea</RegionName>
+			<ICAOCode>RKJK</ICAOCode>
+			<IATACode>KUV</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2743</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5634</UniqueXMLID>
+			<AirportName>Yeosu Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Yeosu</CityName>
+			<CountryName>South Korea</CountryName>
+			<RegionName>South Korea</RegionName>
+			<ICAOCode>RKJY</ICAOCode>
+			<IATACode>RSU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2100</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5637</UniqueXMLID>
+			<AirportName>Wonju/Hoengseong Air Base (K-38/K-46)</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Wonju</CityName>
+			<CountryName>South Korea</CountryName>
+			<RegionName>South Korea</RegionName>
+			<ICAOCode>RKNW</ICAOCode>
+			<IATACode>WJU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2743</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5638</UniqueXMLID>
+			<AirportName>Yangyang International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Gonghang-ro</CityName>
+			<CountryName>South Korea</CountryName>
+			<RegionName>South Korea</RegionName>
+			<ICAOCode>RKNY</ICAOCode>
+			<IATACode>YNY</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2500</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5639</UniqueXMLID>
+			<AirportName>Jeju International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Jeju City</CityName>
+			<CountryName>South Korea</CountryName>
+			<RegionName>South Korea</RegionName>
+			<ICAOCode>RKPC</ICAOCode>
+			<IATACode>CJU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3180</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>1910</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5642</UniqueXMLID>
+			<AirportName>Gimhae International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Busan</CityName>
+			<CountryName>South Korea</CountryName>
+			<RegionName>South Korea</RegionName>
+			<ICAOCode>RKPK</ICAOCode>
+			<IATACode>PUS</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2745</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3200</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5643</UniqueXMLID>
+			<AirportName>Sacheon Air Base/Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Sacheon</CityName>
+			<CountryName>South Korea</CountryName>
+			<RegionName>South Korea</RegionName>
+			<ICAOCode>RKPS</ICAOCode>
+			<IATACode>HIN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2743</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>2743</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5644</UniqueXMLID>
+			<AirportName>Ulsan Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Ulsan</CityName>
+			<CountryName>South Korea</CountryName>
+			<RegionName>South Korea</RegionName>
+			<ICAOCode>RKPU</ICAOCode>
+			<IATACode>USN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5653</UniqueXMLID>
+			<AirportName>Incheon International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Seoul</CityName>
+			<CountryName>South Korea</CountryName>
+			<RegionName>South Korea</RegionName>
+			<ICAOCode>RKSI</ICAOCode>
+			<IATACode>ICN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3750</Length>
+					<SurfaceType>PEM</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3750</Length>
+					<SurfaceType>PEM</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3962</Length>
+					<SurfaceType>PEM</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5656</UniqueXMLID>
+			<AirportName>Gimpo International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Seoul</CityName>
+			<CountryName>South Korea</CountryName>
+			<RegionName>South Korea</RegionName>
+			<ICAOCode>RKSS</ICAOCode>
+			<IATACode>GMP</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3600</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>3200</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5659</UniqueXMLID>
+			<AirportName>Pohang Airport (G-815/K-3)</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Pohang</CityName>
+			<CountryName>South Korea</CountryName>
+			<RegionName>South Korea</RegionName>
+			<ICAOCode>RKTH</ICAOCode>
+			<IATACode>KPO</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2134</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5661</UniqueXMLID>
+			<AirportName>Daegu Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Daegu</CityName>
+			<CountryName>South Korea</CountryName>
+			<RegionName>South Korea</RegionName>
+			<ICAOCode>RKTN</ICAOCode>
+			<IATACode>TAE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2743</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>2755</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>5663</UniqueXMLID>
+			<AirportName>Cheongju International Airport/Cheongju Air Base (K-59/G-513)</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Cheongju</CityName>
+			<CountryName>South Korea</CountryName>
+			<RegionName>South Korea</RegionName>
+			<ICAOCode>RKTU</ICAOCode>
+			<IATACode>CJJ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2743</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>2743</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>South Korea</RegionName>
+</RegionData>

@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>2901</UniqueXMLID>
+			<AirportName>Prince Said Ibrahim International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Moroni</CityName>
+			<CountryName>Comoros</CountryName>
+			<RegionName>Comoros</RegionName>
+			<ICAOCode>FMCH</ICAOCode>
+			<IATACode>HAH</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2900</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2902</UniqueXMLID>
+			<AirportName>Mohéli Bandar Es Eslam Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName/>
+			<CountryName>Comoros</CountryName>
+			<RegionName>Comoros</RegionName>
+			<ICAOCode>FMCI</ICAOCode>
+			<IATACode>NWA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1300</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>2903</UniqueXMLID>
+			<AirportName>Ouani Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Ouani</CityName>
+			<CountryName>Comoros</CountryName>
+			<RegionName>Comoros</RegionName>
+			<ICAOCode>FMCV</ICAOCode>
+			<IATACode>AJN</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1350</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Comoros</RegionName>
+</RegionData>

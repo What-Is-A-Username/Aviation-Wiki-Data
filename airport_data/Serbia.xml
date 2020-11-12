@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4610</UniqueXMLID>
+			<AirportName>Belgrade Nikola Tesla Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Belgrade</CityName>
+			<CountryName>Serbia</CountryName>
+			<RegionName>Serbia</RegionName>
+			<ICAOCode>LYBE</ICAOCode>
+			<IATACode>BEG</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3400</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4612</UniqueXMLID>
+			<AirportName>Nis Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Nis</CityName>
+			<CountryName>Serbia</CountryName>
+			<RegionName>Serbia</RegionName>
+			<ICAOCode>LYNI</ICAOCode>
+			<IATACode>INI</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2500</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Serbia</RegionName>
+</RegionData>

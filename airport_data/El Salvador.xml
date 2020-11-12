@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4820</UniqueXMLID>
+			<AirportName>Monseñor Óscar Arnulfo Romero International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>San Salvador (San Luis Talpa)</CityName>
+			<CountryName>El Salvador</CountryName>
+			<RegionName>El Salvador</RegionName>
+			<ICAOCode>MSLP</ICAOCode>
+			<IATACode>SAL</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3200</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+				<Runway>
+					<Length>800</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>El Salvador</RegionName>
+</RegionData>

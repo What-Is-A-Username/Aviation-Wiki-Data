@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>4861</UniqueXMLID>
+			<AirportName>Gerrard Smith International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Cayman Brac</CityName>
+			<CountryName>Cayman Islands</CountryName>
+			<RegionName>Cayman Islands</RegionName>
+			<ICAOCode>MWCB</ICAOCode>
+			<IATACode>CYB</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1829</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4862</UniqueXMLID>
+			<AirportName>Owen Roberts International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Georgetown</CityName>
+			<CountryName>Cayman Islands</CountryName>
+			<RegionName>Cayman Islands</RegionName>
+			<ICAOCode>MWCR</ICAOCode>
+			<IATACode>GCM</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2140</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Cayman Islands</RegionName>
+</RegionData>

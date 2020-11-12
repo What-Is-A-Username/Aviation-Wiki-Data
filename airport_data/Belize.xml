@@ -1,0 +1,198 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>42216</UniqueXMLID>
+			<AirportName>Big Creek Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Big Creek</CityName>
+			<CountryName>Belize</CountryName>
+			<RegionName>Belize</RegionName>
+			<ICAOCode/>
+			<IATACode>BGK</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways/>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>30861</UniqueXMLID>
+			<AirportName>Caye Caulker Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Caye Caulker</CityName>
+			<CountryName>Belize</CountryName>
+			<RegionName>Belize</RegionName>
+			<ICAOCode/>
+			<IATACode>CUK</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways/>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>30867</UniqueXMLID>
+			<AirportName>Caye Chapel Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Caye Chapel</CityName>
+			<CountryName>Belize</CountryName>
+			<RegionName>Belize</RegionName>
+			<ICAOCode/>
+			<IATACode>CYC</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways/>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>42209</UniqueXMLID>
+			<AirportName>Corozal Municipal Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Corozal</CityName>
+			<CountryName>Belize</CountryName>
+			<RegionName>Belize</RegionName>
+			<ICAOCode/>
+			<IATACode>CZH</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways/>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>42207</UniqueXMLID>
+			<AirportName>Dangriga Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Dangriga</CityName>
+			<CountryName>Belize</CountryName>
+			<RegionName>Belize</RegionName>
+			<ICAOCode/>
+			<IATACode>DGA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways/>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>42217</UniqueXMLID>
+			<AirportName>Placencia Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Placencia</CityName>
+			<CountryName>Belize</CountryName>
+			<RegionName>Belize</RegionName>
+			<ICAOCode/>
+			<IATACode>PLJ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways/>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>35305</UniqueXMLID>
+			<AirportName>Punta Gorda Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Punta Gorda</CityName>
+			<CountryName>Belize</CountryName>
+			<RegionName>Belize</RegionName>
+			<ICAOCode/>
+			<IATACode>PND</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways/>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>42210</UniqueXMLID>
+			<AirportName>Sartaneja Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Sartaneja</CityName>
+			<CountryName>Belize</CountryName>
+			<RegionName>Belize</RegionName>
+			<ICAOCode/>
+			<IATACode>SJX</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways/>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>32370</UniqueXMLID>
+			<AirportName>San Pedro Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>San Pedro</CityName>
+			<CountryName>Belize</CountryName>
+			<RegionName>Belize</RegionName>
+			<ICAOCode>MZSP</ICAOCode>
+			<IATACode>SPR</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways/>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>42215</UniqueXMLID>
+			<AirportName>Belize City Municipal Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Belize City</CityName>
+			<CountryName>Belize</CountryName>
+			<RegionName>Belize</RegionName>
+			<ICAOCode/>
+			<IATACode>TZA</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways/>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>4956</UniqueXMLID>
+			<AirportName>Philip S. W. Goldson International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Belize City</CityName>
+			<CountryName>Belize</CountryName>
+			<RegionName>Belize</RegionName>
+			<ICAOCode>MZBZ</ICAOCode>
+			<IATACode>BZE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2164</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Belize</RegionName>
+</RegionData>

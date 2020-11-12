@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>8</UniqueXMLID>
+			<AirportName>Nauru International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Yaren District</CityName>
+			<CountryName>Nauru</CountryName>
+			<RegionName>Nauru</RegionName>
+			<ICAOCode>ANYN</ICAOCode>
+			<IATACode>INU</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2150</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Nauru</RegionName>
+</RegionData>

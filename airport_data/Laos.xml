@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<RegionData>
+	<Airports>
+		<Airport>
+			<UniqueXMLID>26583</UniqueXMLID>
+			<AirportName>Luang Phabang International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Luang Phabang</CityName>
+			<CountryName>Laos</CountryName>
+			<RegionName>Laos</RegionName>
+			<ICAOCode>VLLB</ICAOCode>
+			<IATACode>LPQ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>2200</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>26584</UniqueXMLID>
+			<AirportName>Pakse International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Pakse</CityName>
+			<CountryName>Laos</CountryName>
+			<RegionName>Laos</RegionName>
+			<ICAOCode>VLPS</ICAOCode>
+			<IATACode>PKZ</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>1625</Length>
+					<SurfaceType>CON</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+		<Airport>
+			<UniqueXMLID>26588</UniqueXMLID>
+			<AirportName>Wattay International Airport</AirportName>
+			<AirportLevel>1</AirportLevel>
+			<CityName>Vientiane</CityName>
+			<CountryName>Laos</CountryName>
+			<RegionName>Laos</RegionName>
+			<ICAOCode>VLVT</ICAOCode>
+			<IATACode>VTE</IATACode>
+			<Population>0</Population>
+			<GateNumbers>1</GateNumbers>
+			<HangarNumbers>1</HangarNumbers>
+			<BuildingNumbers>1</BuildingNumbers>
+			<BaseOrigin>1</BaseOrigin>
+			<WealthRating>1</WealthRating>
+			<Runways>
+				<Runway>
+					<Length>3000</Length>
+					<SurfaceType>ASP</SurfaceType>
+				</Runway>
+			</Runways>
+		</Airport>
+	</Airports>
+	<RegionName>Laos</RegionName>
+</RegionData>
