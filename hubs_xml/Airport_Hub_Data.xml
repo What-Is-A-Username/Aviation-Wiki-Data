@@ -1,0 +1,1699 @@
+<?xml version="1.0" ?>
+<HubAirports>
+	<Airport>
+		<AirportName>Houari Boumediene Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Algérie</Airline>
+			<Airline>Aigle Azur</Airline>
+			<Airline>Tassili Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Oued Irara-Krim Belkacem Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Tassili Airlines</Airline>
+			<Airline>Air Express Algeria</Airline>
+			<Airline>Star Aviation</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Oran Es Sénia Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Aigle Azur</Airline>
+			<Airline>Air Algerie</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Quatro de Fevereiro Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Fly Angola</Airline>
+			<Airline>TAAG Angola Airlines</Airline>
+			<Airline>Diexim Expresso</Airline>
+			<Airline>SonAir</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Cadjehoun Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Benin Golf Air</Airline>
+			<Airline>Westair Benin</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Sir Seretse Khama International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Botswana</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Ouagadougou Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Burkina</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Bujumbura International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Burundi</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Douala International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Camair-co</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Yaoundé Nsimalen International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Elysian Airlines</Airline>
+			<Airline>Section Liaison Air Yaoundé</Airline>
+			<Airline>National Airways Cameroon</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Amílcar Cabral International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Cabo Verde Express</Airline>
+			<Airline>Halcyonair</Airline>
+			<Airline>TACV</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Praia International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>TACV</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>São Pedro Airport</AirportName>
+		<LocalAirlines>
+			<Airline>TACV</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>N'Djamena International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Toumaï Air Tchad</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Prince Said Ibrahim International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Comores Aviation</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Maya-Maya Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Equatorial Congo Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Port Bouet Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Côte d'Ivoire</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Djibouti-Ambouli International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Daallo Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Borg El Arab Airport</AirportName>
+		<LocalAirlines>
+			<Airline>EgyptAir</Airline>
+			<Airline>Air Arabia Egypt</Airline>
+			<Airline>AlMasria Universal Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Cairo International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Cairo</Airline>
+			<Airline>AlMasria Universal Airlines</Airline>
+			<Airline>AMC Airlines</Airline>
+			<Airline>EgyptAir</Airline>
+			<Airline>EgyptAir Express</Airline>
+			<Airline>Nile Air</Airline>
+			<Airline>Nesma Airlines</Airline>
+			<Airline>Midwest Airlines</Airline>
+			<Airline>Alexandria Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Hurghada International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Cairo</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Sharm el-Sheikh International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Cairo</Airline>
+			<Airline>EgyptAir Express</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Asmara International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Eritrean Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Addis Ababa Bole International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Ethiopian Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Libreville International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Nationale Regionale Transport</Airline>
+			<Airline>Sky Gabon</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Banjul International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Gambia Bird</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Kotoka International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Africa World Airlines</Airline>
+			<Airline>Starbow Airlines</Airline>
+			<Airline>Antrak Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Conakry International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Elysian Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Jomo Kenyatta International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Fly540</Airline>
+			<Airline>Kenya Airways</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Wilson Airport (Kenya)</AirportName>
+		<LocalAirlines>
+			<Airline>Airkenya Express</Airline>
+			<Airline>Safarilink Aviation</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Tripoli International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Afriqiyah Airways</Airline>
+			<Airline>Libyan Airlines</Airline>
+			<Airline>Buraq Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Ivato Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Madagascar</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Nouakchott–Oumtounsy International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Mauritania Airlines International</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Sir Seewoosagur Ramgoolam Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Mauritius</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Mohammed V Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Jetairfly</Airline>
+			<Airline>Royal Air Maroc</Airline>
+			<Airline>Royal Air Maroc Express</Airline>
+			<Airline>Air Arabia</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Marrakech-Menara Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Atlas Blue</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Ibn Batouta International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>RAM Express</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Maputo International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Kaya Airlines</Airline>
+			<Airline>LAM Mozambique Airlines</Airline>
+			<Airline>Moçambique Expresso</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Windhoek Hosea Kutako International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Namibia</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Murtala Muhammed International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Aero Contractors (Nigeria)</Airline>
+			<Airline>Med-View Airline</Airline>
+			<Airline>Chanchangi Airlines</Airline>
+			<Airline>Arik Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Nnamdi Azikiwe International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>IRS Airlines</Airline>
+			<Airline>Arik Air</Airline>
+			<Airline>Overland Airways</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Kigali International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>RwandAir</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Léopold Sédar Senghor International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Sénégal Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Seychelles International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Seychelles</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Lungi International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Fly 6ix</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>OR Tambo International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>South African Airways</Airline>
+			<Airline>Airlink</Airline>
+			<Airline>Comair</Airline>
+			<Airline>South African Express</Airline>
+			<Airline>Kulula</Airline>
+			<Airline>Mango</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Lanseria International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Kulula</Airline>
+			<Airline>Comair</Airline>
+			<Airline>Solenta Aviation</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Cape Town International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>South African Express</Airline>
+			<Airline>Mango</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>King Shaka International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>South African Express</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Juba Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Feeder Airlines</Airline>
+			<Airline>Southern Star Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Khartoum International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Sudan Airways</Airline>
+			<Airline>Marsland Aviation</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Julius Nyerere International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Tanzania</Airline>
+			<Airline>Precision Air</Airline>
+			<Airline>Coastal Aviation</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Kilimanjaro International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Precision Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Mwanza</AirportName>
+		<LocalAirlines>
+			<Airline>Air Tanzania</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Abeid Amani Karume International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>ZanAir</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Lomé-Tokoin Airport</AirportName>
+		<LocalAirlines>
+			<Airline>ASKY Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Tunis-Carthage International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Tunisair</Airline>
+			<Airline>TunisAir Express</Airline>
+			<Airline>Syphax Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Sfax-Thyna International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Syphax Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Entebbe International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Uganda</Airline>
+			<Airline>Eagle Air (Uganda)</Airline>
+			<Airline>Royal Daisy Airlines</Airline>
+			<Airline>Uganda Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Harare International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Zimbabwe</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Lusaka International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Proflight Zambia</Airline>
+			<Airline>Zambezi Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Kabul International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Ariana Afghan Airlines</Airline>
+			<Airline>Kam Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Kandahar International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Ariana Afghan Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Aktau Airport</AirportName>
+		<LocalAirlines>
+			<Airline>SCAT</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Almaty International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Astana</Airline>
+			<Airline>SCAT</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Astana International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Astana</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Manas International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Kyrgyzstan</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Dushanbe Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Somon Air</Airline>
+			<Airline>Tajik Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Ashgabat Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Turkmenistan Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Tashkent International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Uzbekistan Airways</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Beijing Capital International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air China</Airline>
+			<Airline>China Eastern Airlines</Airline>
+			<Airline>China Southern Airlines</Airline>
+			<Airline>Hainan Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Beijing Daxing International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>China Southern Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Chengdu Shuangliu International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air China</Airline>
+			<Airline>Chengdu Airlines</Airline>
+			<Airline>Sichuan Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Chongqing Jiangbei International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Chongqing Airlines</Airline>
+			<Airline>China Southern Airlines</Airline>
+			<Airline>Sichuan Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Fuzhou</AirportName>
+		<LocalAirlines>
+			<Airline>Xiamen Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Guangzhou Baiyun International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>9 Air</Airline>
+			<Airline>China Southern Airlines</Airline>
+			<Airline>FedEx</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Hong Kong International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Cathay Pacific</Airline>
+			<Airline>Air Hong Kong</Airline>
+			<Airline>Hong Kong Airlines</Airline>
+			<Airline>HK Express</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Shanghai Hongqiao International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>China Eastern Airlines</Airline>
+			<Airline>Shanghai Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Shanghai Pudong International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air China</Airline>
+			<Airline>China Southern Airlines</Airline>
+			<Airline>China Eastern Airlines</Airline>
+			<Airline>Juneyao Airlines</Airline>
+			<Airline>Shanghai Airlines</Airline>
+			<Airline>Spring Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Shenzhen Bao'an International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Shenzhen Airlines</Airline>
+			<Airline>SF Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Xi'an Xianyang International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>China Eastern Airlines</Airline>
+			<Airline>Hainan Airlines</Airline>
+			<Airline>Shenzhen Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Haneda Airport</AirportName>
+		<LocalAirlines>
+			<Airline>All Nippon Airways</Airline>
+			<Airline>Japan Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Kansai International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>All Nippon Airways</Airline>
+			<Airline>Japan Airlines</Airline>
+			<Airline>Nippon Cargo Airlines</Airline>
+			<Airline>Peach</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Narita International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>All Nippon Airways</Airline>
+			<Airline>Japan Airlines</Airline>
+			<Airline>Jetstar Japan</Airline>
+			<Airline>Vanilla Air</Airline>
+			<Airline>Nippon Cargo Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Osaka International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>All Nippon Airways</Airline>
+			<Airline>Japan Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Incheon International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Asiana Airlines</Airline>
+			<Airline>Eastar Jet</Airline>
+			<Airline>Jeju Air</Airline>
+			<Airline>Jin Air</Airline>
+			<Airline>Korean Air</Airline>
+			<Airline>T'way Airlines</Airline>
+			<Airline>Polar Air Cargo</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Gimhae International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Busan</Airline>
+			<Airline>Korean Air</Airline>
+			<Airline>Asiana Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Gimpo International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Asiana Airlines</Airline>
+			<Airline>Korean Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Macau International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Macau</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Buyant-Ukhaa International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>MIAT Mongolian Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Taiwan Taoyuan International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>China Airlines</Airline>
+			<Airline>EVA Air</Airline>
+			<Airline>Tigerair Taiwan</Airline>
+			<Airline>UNI Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Taipei Songshan Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Far Eastern Air Transport</Airline>
+			<Airline>China Airlines</Airline>
+			<Airline>EVA Air</Airline>
+			<Airline>Mandarin Airlines</Airline>
+			<Airline>UNI Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Kaohsiung International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>UNI Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Taichung Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Mandarin Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Hazrat Shahjalal International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Biman Bangladesh Airlines</Airline>
+			<Airline>United Airways</Airline>
+			<Airline>Regent Airways</Airline>
+			<Airline>NovoAir</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Shah Amanat International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Biman Bangladesh Airlines</Airline>
+			<Airline>United Airways</Airline>
+			<Airline>NovoAir</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Osmani International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Biman Bangladesh Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Indira Gandhi International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>AirAsia India</Airline>
+			<Airline>Air India</Airline>
+			<Airline>Vistara</Airline>
+			<Airline>IndiGo</Airline>
+			<Airline>Deccan 360</Airline>
+			<Airline>SpiceJet</Airline>
+			<Airline>GoAir</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Chhatrapati Shivaji International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>AirAsia India</Airline>
+			<Airline>Air India</Airline>
+			<Airline>Vistara</Airline>
+			<Airline>Deccan 360</Airline>
+			<Airline>GoAir</Airline>
+			<Airline>IndiGo</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Blue Dart Aviation</AirportName>
+		<LocalAirlines>
+			<Airline>Blue Dart Aviation</Airline>
+			<Airline>IndiGo</Airline>
+			<Airline>Deccan Aviation</Airline>
+			<Airline>Alliance Air (India)</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Netaji Subhas Chandra Bose International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Deccan</Airline>
+			<Airline>Air India</Airline>
+			<Airline>Alliance Air (India)</Airline>
+			<Airline>Air Asia India</Airline>
+			<Airline>Blue Dart Aviation</Airline>
+			<Airline>GoAir</Airline>
+			<Airline>IndiGo</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Chennai International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Blue Dart Aviation</Airline>
+			<Airline>IndiGo</Airline>
+			<Airline>Alliance Air (India)</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Rajiv Gandhi International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>SpiceJet</Airline>
+			<Airline>Lufthansa Cargo</Airline>
+			<Airline>IndiGo</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Velana International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Maldivian</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Tribhuvan International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Nepal Airlines</Airline>
+			<Airline>BB Airways</Airline>
+			<Airline>Buddha Air</Airline>
+			<Airline>Yeti Airlines</Airline>
+			<Airline>Gorkha Airlines</Airline>
+			<Airline>Sita Air</Airline>
+			<Airline>Tara Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Pokhara Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Gorkha Airlines</Airline>
+			<Airline>Sita Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Nepalgunj Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Tara Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Jinnah International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Pakistan International Airlines</Airline>
+			<Airline>Aero Asia</Airline>
+			<Airline>Airblue</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Allama Iqbal International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Pakistan International Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Benazir Bhutto International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Pakistan International Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Bandaranaike International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Cinnamon Air</Airline>
+			<Airline>Millennium Airlines</Airline>
+			<Airline>Sri Lankan Airlines</Airline>
+			<Airline>Sri Lankan Cargo</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Mattala Rajapaksa International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Helitours</Airline>
+			<Airline>Sri Lankan Airlines</Airline>
+			<Airline>SriLankan Cargo</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Brunei International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Royal Brunei Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Soekarno-Hatta International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Batik Air</Airline>
+			<Airline>Citilink</Airline>
+			<Airline>Garuda Indonesia</Airline>
+			<Airline>Indonesia AirAsia</Airline>
+			<Airline>Indonesia AirAsia X</Airline>
+			<Airline>Lion Air</Airline>
+			<Airline>Nam Air</Airline>
+			<Airline>Sriwijaya Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Juanda International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Citilink</Airline>
+			<Airline>Garuda Indonesia</Airline>
+			<Airline>Indonesia AirAsia X</Airline>
+			<Airline>Lion Air</Airline>
+			<Airline>Sriwijaya Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Ngurah Rai International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Garuda Indonesia</Airline>
+			<Airline>Indonesia AirAsia</Airline>
+			<Airline>Indonesia AirAsia X</Airline>
+			<Airline>Lion Air</Airline>
+			<Airline>Wings Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Sultan Hasanuddin International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Garuda Indonesia</Airline>
+			<Airline>Lion Air</Airline>
+			<Airline>Sriwijaya Air</Airline>
+			<Airline>Wings Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Halim Perdanakusuma Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Batik Air</Airline>
+			<Airline>Citilink</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Kuala Namu International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Garuda Indonesia</Airline>
+			<Airline>Indonesia AirAsia</Airline>
+			<Airline>Lion Air</Airline>
+			<Airline>Wings Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Husein Sastranegara International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Indonesia AirAsia</Airline>
+			<Airline>Lion Air</Airline>
+			<Airline>Wings Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Lombok International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Indonesia Airasia</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Senai International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>AirAsia</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Kota Kinabalu International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>AirAsia</Airline>
+			<Airline>Malaysia Airlines</Airline>
+			<Airline>MASwings</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Kuching International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>AirAsia</Airline>
+			<Airline>Malaysia Airlines</Airline>
+			<Airline>MASwings</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Kuala Lumpur International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>AirAsia</Airline>
+			<Airline>AirAsia X</Airline>
+			<Airline>Malaysia Airlines</Airline>
+			<Airline>Malindo Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Miri Airport</AirportName>
+		<LocalAirlines>
+			<Airline>MASwings</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Penang International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>AirAsia</Airline>
+			<Airline>Firefly</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Sultan Abdul Aziz Shah Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Firefly</Airline>
+			<Airline>Malindo Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Luzon</AirportName>
+		<LocalAirlines>
+			<Airline>Clark International Airport</Airline>
+			<Airline>Cebgo</Airline>
+			<Airline>Cebu Pacific</Airline>
+			<Airline>Philippine Airlines</Airline>
+			<Airline>Ninoy Aquino International Airport</Airline>
+			<Airline>AirAsia Philippines</Airline>
+			<Airline>Cebgo</Airline>
+			<Airline>Cebu Pacific</Airline>
+			<Airline>Philippine Airlines</Airline>
+			<Airline>PAL Express</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Visayas</AirportName>
+		<LocalAirlines>
+			<Airline>Iloilo International Airport</Airline>
+			<Airline>Cebu Pacific</Airline>
+			<Airline>Kalibo International Airport</Airline>
+			<Airline>Cebu Pacific</Airline>
+			<Airline>Mactan-Cebu International Airport</Airline>
+			<Airline>Philippine Airlines</Airline>
+			<Airline>Cebu Pacific</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Mindanao</AirportName>
+		<LocalAirlines>
+			<Airline>Francisco Bangoy International Airport</Airline>
+			<Airline>Cebu Pacific</Airline>
+			<Airline>PAL Express</Airline>
+			<Airline>Philippine Airlines</Airline>
+			<Airline>Philippines AirAsia</Airline>
+			<Airline>Zamboanga International Airport</Airline>
+			<Airline>PAL Express</Airline>
+			<Airline>Laguindingan Airport</Airline>
+			<Airline>Cebgo</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Singapore Changi Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Jetstar Asia</Airline>
+			<Airline>SilkAir</Airline>
+			<Airline>Singapore Airlines</Airline>
+			<Airline>Scoot</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Suvarnabhumi Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Thai Airways International</Airline>
+			<Airline>Thai Smile</Airline>
+			<Airline>Bangkok Airways</Airline>
+			<Airline>Thai Vietjet Air</Airline>
+			<Airline>Thai AirAsia</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Don Mueang International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Nok Air</Airline>
+			<Airline>Thai AirAsia</Airline>
+			<Airline>Thai AirAsia X</Airline>
+			<Airline>Thai Lion Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Chiang Mai International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Thai Airways International</Airline>
+			<Airline>Kan Air</Airline>
+			<Airline>Thai Smile</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Phuket International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Thai Airways International</Airline>
+			<Airline>Thai AirAsia</Airline>
+			<Airline>Thai Smile</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Koh Samui Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Bangkok Airways</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Noi Bai International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>VietJet Air</Airline>
+			<Airline>Vietnam Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Tan Son Nhat International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Pacific Airlines</Airline>
+			<Airline>VietJet Air</Airline>
+			<Airline>Vietnam Airlines</Airline>
+			<Airline>Vietnam Air Service Company</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Bahrain International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Gulf Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Tehran Imam Khomeini International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Iran Air</Airline>
+			<Airline>Mahan Air</Airline>
+			<Airline>Kish Air</Airline>
+			<Airline>Caspian Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Mehrabad International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Iran Air</Airline>
+			<Airline>Iran Asseman Airlines</Airline>
+			<Airline>Mahan Air</Airline>
+			<Airline>Caspian Airlines</Airline>
+			<Airline>Saha Airlines</Airline>
+			<Airline>Taban Airlines</Airline>
+			<Airline>Aria Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Mashhad International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Iran Air Tours</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Shiraz International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Iran Air</Airline>
+			<Airline>Iran Asseman Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Kish International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Kish Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Ben Gurion International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Arkia Israel Airlines</Airline>
+			<Airline>El Al</Airline>
+			<Airline>Israir Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Queen Alia International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Royal Jordanian</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Beirut Rafic Hariri International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Middle East Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Muscat International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Oman Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Hamad International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Qatar Airways</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>King Khaled International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Saudi Arabian Airlines</Airline>
+			<Airline>Nas Air (Saudi Arabia)</Airline>
+			<Airline>Al Khayala</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>King Abdulaziz International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Saudi Arabian Airlines</Airline>
+			<Airline>Al Khayala</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>King Fahd International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Saudi Arabian Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Abu Dhabi International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Etihad Airways</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Dubai International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Emirates</Airline>
+			<Airline>Flydubai</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Sharjah International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Arabia</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Calgary International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Canada</Airline>
+			<Airline>Canadian Airlines</Airline>
+			<Airline>Canadian Pacific Air Lines</Airline>
+			<Airline>Pacific Western Airlines</Airline>
+			<Airline>WestJet</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Edmonton International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Canadian North</Airline>
+			<Airline>Flair Airlines</Airline>
+			<Airline>Canadian Pacific Air Lines</Airline>
+			<Airline>Pacific Western Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Vancouver International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Canada</Airline>
+			<Airline>Canadian Airlines</Airline>
+			<Airline>Canadian Pacific Air Lines</Airline>
+			<Airline>Pacific Western Airlines</Airline>
+			<Airline>WestJet</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Yellowknife Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Canadian North</Airline>
+			<Airline>First Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Halifax Stanfield International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Jazz</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Iqaluit Airport</AirportName>
+		<LocalAirlines>
+			<Airline>First Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>North Bay/Jack Garland Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Voyageur Airways</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Ottawa Macdonald-Cartier International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Canada</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Toronto Pearson International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Canada</Airline>
+			<Airline>Canadian Airlines</Airline>
+			<Airline>Canadian Pacific Air Lines</Airline>
+			<Airline>WestJet</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Billy Bishop Toronto City Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Porter Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Montreal-Trudeau International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Canada</Airline>
+			<Airline>Canadian Airlines</Airline>
+			<Airline>Canadian Pacific Air Lines</Airline>
+			<Airline>Nordair</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Mexico City International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Aeromar</Airline>
+			<Airline>Aeroméxico</Airline>
+			<Airline>Aeroméxico Connect</Airline>
+			<Airline>Interjet</Airline>
+			<Airline>Magnicharters</Airline>
+			<Airline>Mexicana de Aviación</Airline>
+			<Airline>Volaris</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Don Miguel Hidalgo y Costilla International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>ALMA de Mexico</Airline>
+			<Airline>Aeroméxico</Airline>
+			<Airline>Interjet</Airline>
+			<Airline>Volaris</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Lic. Adolfo López Mateos International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Interjet</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>General Mariano Escobedo International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Aeroméxico</Airline>
+			<Airline>Aladia</Airline>
+			<Airline>VivaAerobus</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Querétaro Intercontinental Airport</AirportName>
+		<LocalAirlines>
+			<Airline>TAR Aerolíneas</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Cancún International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Aeroméxico Travel</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>La Aurora International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Transportes Aéreos Guatemaltecos</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Goloson International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Islena Airlines</Airline>
+			<Airline>Aerolíneas Sosa</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Toncontín International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Aerolíneas Sosa</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Comalapa International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Avianca El Salvador</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Juan Santamaría International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Avianca Costa Rica</Airline>
+			<Airline>Copa Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Tocumen International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Copa Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Lynden Pindling International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Bahamasair</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Grantley Adams International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>REDjet</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Owen Roberts International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Cayman Airways</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>José Martí International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Cubana de Aviación</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Las Américas International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>PAWA Dominicana</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Pointe-à-Pitre International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Caraïbes</Airline>
+			<Airline>Air Antilles Express</Airline>
+			<Airline>Air France</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Norman Manley International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Caribbean Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Martinique Aimé Césaire International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Caraïbes</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Rafael Hernandez Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Prinair</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Luis Muñoz Marín International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Seaborne Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Vieques Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Vieques Air Link</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Argyle International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>SVG Air</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Mustique Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Mustique Airways</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Piarco International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Caribbean Airlines</Airline>
+			<Airline>Amerijet</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Melbourne Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Qantas</Airline>
+			<Airline>Jetstar</Airline>
+			<Airline>Virgin Australia</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Sydney Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Jetstar</Airline>
+			<Airline>Qantas</Airline>
+			<Airline>Virgin Australia</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Brisbane Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Jetstar</Airline>
+			<Airline>Qantas</Airline>
+			<Airline>Virgin Australia</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Perth Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Virgin Australia Regional Airlines</Airline>
+			<Airline>Qantas</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Adelaide Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Qantas</Airline>
+			<Airline>Regional Express Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Gold Coast Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Jetstar</Airline>
+			<Airline>Cebgo</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Darwin Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Airnorth</Airline>
+			<Airline>Jetstar</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Cairns Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Jetstar</Airline>
+			<Airline>Skytrans Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Auckland Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air New Zealand</Airline>
+			<Airline>Virgin Australia</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Christchurch Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air New Zealand</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Wellington Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air New Zealand</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Honolulu International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Go!</Airline>
+			<Airline>Hawaiian Airlines</Airline>
+			<Airline>Island Air (Hawaii)</Airline>
+			<Airline>Mokulele Airlines</Airline>
+			<Airline>Asia Pacific Airlines (United States)</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Kahului Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Island Air (Hawaii)</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Kona International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Mokulele Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Aeroparque Jorge Newbery</AirportName>
+		<LocalAirlines>
+			<Airline>Aerolíneas Argentinas</Airline>
+			<Airline>Austral Líneas Aéreas</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Ministro Pistarini International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Aerolíneas Argentinas</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Aerolíneas Argentinas</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Martín Miguel de Güemes International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Andes Líneas Aéreas</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>El Dorado International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Avianca</Airline>
+			<Airline>Copa Airlines Colombia</Airline>
+			<Airline>LAN Colombia</Airline>
+			<Airline>Viva Colombia</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>José María Córdova International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Avianca</Airline>
+			<Airline>Viva Colombia</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Cayenne-Rochambeau Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Air Guyane Express</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Guarulhos International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>TAM Linhas Aéreas</Airline>
+			<Airline>Avianca Brazil</Airline>
+			<Airline>Gol Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Congonhas-São Paulo Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Gol Airlines</Airline>
+			<Airline>TAM Linhas Aéreas</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Brasília International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Avianca Brazil</Airline>
+			<Airline>Gol Airlines</Airline>
+			<Airline>TAM Linhas Aéreas</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Recife/Guararapes–Gilberto Freyre International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Azul Brazilian Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Viracopos International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Azul Brazilian Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Rio de Janeiro–Galeão International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Gol Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Confins International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Azul Brazilian Airlines</Airline>
+			<Airline>Gol Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Leite Lopes Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Passaredo Linhas Aéreas</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Comodoro Arturo Merino Benítez International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>LATAM</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Mariscal Sucre International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Avianca Ecuador</Airline>
+			<Airline>LAN Ecuador</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>José Joaquín de Olmedo International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>LAN Ecuador</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Silvio Pettirossi International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>LATAM Paraguay</Airline>
+			<Airline>Amaszonas Paraguay</Airline>
+			<Airline>Sol del Paraguay</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Guaraní International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Sol del Paraguay</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Jorge Chavez International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>LAN Perú</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Carrasco International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Pluna</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>Simón Bolívar International Airport (Venezuela)</AirportName>
+		<LocalAirlines>
+			<Airline>Aeropostal Alas de Venezuela</Airline>
+			<Airline>Aserca Airlines</Airline>
+			<Airline>Conviasa</Airline>
+			<Airline>SBA Airlines</Airline>
+			<Airline>Venezolana</Airline>
+			<Airline>Vensecar Internacional</Airline>
+		</LocalAirlines>
+	</Airport>
+	<Airport>
+		<AirportName>General José Antonio Anzoátegui International Airport</AirportName>
+		<LocalAirlines>
+			<Airline>Avior Airlines</Airline>
+		</LocalAirlines>
+	</Airport>
+</HubAirports>

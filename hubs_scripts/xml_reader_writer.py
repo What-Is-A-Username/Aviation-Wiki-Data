@@ -14,7 +14,7 @@ def read_xml(fileNameWithoutExtension : str):
 def write_xml(data : ETree.ElementTree, fileNameWithoutExtension : str, newlchr : str, indentchr : str):
     current_os_path = os.getcwd()
     file_name = fileNameWithoutExtension + ".xml"
-    file_os_path = current_os_path + '/hubs_scripts/' + file_name
+    file_os_path = current_os_path + '/hubs_xml/' + file_name
     xmlstr = minidom.parseString(ETree.tostring(data.getroot())).toprettyxml(newl=newlchr, indent=indentchr)
     with open(file_os_path, "w", encoding='UTF-8') as f:
         print('writing to file', file_os_path)
@@ -22,4 +22,5 @@ def write_xml(data : ETree.ElementTree, fileNameWithoutExtension : str, newlchr 
 
 def get_string(data : ETree.ElementTree):
     return ETree.tostring(data.getroot(), encoding='UTF-8')
+
 
