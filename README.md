@@ -1,8 +1,6 @@
 # Aviation-Wiki-Data
 
-A work-in-progress collection of Python scripts used to extract airport and airline data from Wikipedia pages and .csv files. Scanning of HTML is done using tools from the [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/) library. Extracted data is outputted into XML files for downstream applications.
-
-***Note to the reader:*** *Incomplete and inconsistent code documentation is provided for this repository, for this project was never initially intended to be shared publicly.*
+A collection of Python scripts used to extract airport and airline data from Wikipedia pages and .csv files. Scanning of HTML is done using tools from the [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/) library. Extracted data is outputted into XML files for downstream applications.
 
 ## Functionalities
 
